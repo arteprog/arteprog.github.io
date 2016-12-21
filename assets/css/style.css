@@ -1,7 +1,7 @@
 /*! style.css v1.0.0-alpha-8 | ISC License | https://github.com/ungoldman/style.css */
 html {
   color: #303030;
-  background-color: red;
+  background-color: gray;
   box-sizing: border-box;
   font-family: -apple-system, BlinkMacSystemFont, "avenir next", avenir, "segoe ui", "fira sans", roboto, noto, "droid sans", "liberation sans", "lucida grande", "helvetica neue", helvetica, "franklin gothic medium", "century gothic", cantarell, oxygen, ubuntu, sans-serif;
   font-size: calc(16px + 0.25vw);
@@ -16,7 +16,7 @@ html {
 }
 
 body {
-  margin: 0;
+  margin: 10;
 }
 
 article,
