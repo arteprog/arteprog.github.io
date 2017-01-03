@@ -15,7 +15,7 @@
 
 ## 31/01/2017 Noite de Processing: Instalações Audiovisuais Interativas - Pablo Villavicencio
 
-![ndp12] (https://garoa.net.br/w/images/thumb/Pablondp.jpg/500px-Pablondp.jpg)
+![convitendp12] (https://garoa.net.br/w/images/thumb/Pablondp.jpg/500px-Pablondp.jpg)
 
 **[19h30] Instalações audiovisuais interativas:** apresentarei um breve resumo de minha tese de doutorado, que enfoca os espaços diferentes da sala de cinema tradicional. A instalação audiovisual ou cineinstalação compreende “outros cinemas”, outros espaços e temporalidades, com configurações heterogêneas e distintas do dispositivo cinematográfico tradicional. Nesses espaços, experimentamos sensações sinestésicas, táteis, gestuais, com o potencial de ativar outros sentidos corporais, e construir espaços relacionais, em que as outras pessoas presentes não são ignoradas, mas relacionadas entre si e, frequentemente, diretamente com a obra audiovisual. O próprio ato realizado pelo sujeito ao andar e penetrar uma instalação já se caracteriza por uma sensação háptica, do ato de andar e tocar os pés no chão. Cineinstalações são ambientes, atmosferas audiovisuais que envolvem os sujeitos presentes no espaço expositivo. Abordarei os espaços sensíveis, que permitem a interação, analisando 3 instalações: Socket Screen, de R. Rosalen e R. Marchetti, Meditation, de Minha Yang, Little Boxes, de Bego Santiago. Ao final pretendo realizar uma discussão sobre as possibilidades oferecidas pelo software Processing em instalações audiovisuais.
 
