@@ -8,7 +8,7 @@
 
 [GitHub arteprog](https://github.com/arteprog)
 
-[Membros](http://arteprog.github.io/membros/)
+[Pessoas](http://arteprog.github.io/membros/)
 
 [**Contato**](https://docs.google.com/forms/d/e/1FAIpQLSdIbkBf-7tUBk6YZ6elDA6hL3VA86fPQNGWshHviAZRcYM3HA/viewform)
 
