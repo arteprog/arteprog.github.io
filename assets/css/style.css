@@ -8,6 +8,7 @@ html {
   margin-left: auto;
   margin-right: auto;
   padding-left: 10%;
+  max-width: 1400px;
   color: #303030;
   background-color: white;
   box-sizing: border-box;
