@@ -1,9 +1,13 @@
 /*! style.css v1.0.0-alpha-8 | ISC License | https://github.com/ungoldman/style.css */
+@font-face { font-family: "Open Sans";
+             src: url("https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700");
+             font-weight: normal;
+font-style: normal; }
 html {
   color: #303030;
   background-color: white;
   box-sizing: border-box;
-  font-family: -apple-system, BlinkMacSystemFont, "avenir next", avenir, "segoe ui", "fira sans", roboto, noto, "droid sans", "liberation sans", "lucida grande", "helvetica neue", helvetica, "franklin gothic medium", "century gothic", cantarell, oxygen, ubuntu, sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: calc(16px + 0.25vw);
   line-height: 1.55;
   -webkit-font-kerning: normal;
