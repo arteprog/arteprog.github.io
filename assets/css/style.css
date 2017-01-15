@@ -4,10 +4,10 @@
              font-weight: normal;
 font-style: normal; }
 html {
-  width: 90%;
+  width: 92.5%;
   margin-left: auto;
   margin-right: auto;
-  padding-left: 10%;
+  padding-left: 7.5%;
   max-width: 1400px;
   color: #303030;
   background-color: white;
@@ -119,11 +119,11 @@ h4 {
 }
 
 h5 {
-  font-size: 1em;
+  font-size: 0.9em;
 }
 
 h6 {
-  font-size: 1.125em;
+  font-size: 0.8em;
   color: #575757;
 }
 
