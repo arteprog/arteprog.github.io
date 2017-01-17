@@ -17,7 +17,7 @@
 
 ![robosdesenhistas](https://github.com/MonicaRizzolli/arteprog.github.io/blob/master/assets/images/hackerspace_itinerante_18012017.jpg?raw=true)
 
-[+ INFORMAÇÕES](https://hackerspaceitinerante.wordpress.com/)
+[+ MAIS INFORMAÇÕES](https://hackerspaceitinerante.wordpress.com/)
 
 #### 31/01/2017 Noite de Processing: Instalações Audiovisuais Interativas - Pablo Villavicencio
 
