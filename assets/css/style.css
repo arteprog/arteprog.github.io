@@ -5,6 +5,7 @@
 font-style: normal; }
 html {
   padding-left: 3%;
+  padding-right: 3%;
   max-width: 1400px;
   color: #303030;
   background-color: white;
