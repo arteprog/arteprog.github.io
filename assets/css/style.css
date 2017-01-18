@@ -340,7 +340,7 @@ hr::after {
 img {
   border-style: none;
   border: 0;
-  max-width: 600px;
+  max-width: 100%;
 }
 
 svg:not(:root) {
