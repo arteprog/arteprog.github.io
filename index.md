@@ -1,10 +1,14 @@
 # arteprog
-	
-[Cursos de arte e programação](http://arteprog.github.io/cursos/)
 
-[*Meetups* arte e programação](https://www.meetup.com/arte-e-programacao/)
+###projetos
 
 [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing)
+
+Processando Processing
+
+###[Cursos de arte e programação](http://arteprog.github.io/cursos/)
+
+[*Meetups* arte e programação](https://www.meetup.com/arte-e-programacao/)
 
 [GitHub arteprog](https://github.com/arteprog)
 
