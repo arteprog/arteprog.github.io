@@ -1,16 +1,17 @@
 # arteprog
+arte e programação
 
-[Projetos](/projetos/)
+[projetos](/projetos/)
 
-[Cursos de arte e programação](http://arteprog.github.io/cursos/)
+[cursos](http://arteprog.github.io/cursos/)
 
-[Pessoas](http://arteprog.github.io/membros/)
+[pessoas](http://arteprog.github.io/membros/)
 
-[**Contato**](https://docs.google.com/forms/d/e/1FAIpQLSdIbkBf-7tUBk6YZ6elDA6hL3VA86fPQNGWshHviAZRcYM3HA/viewform)
+[**contato**](https://docs.google.com/forms/d/e/1FAIpQLSdIbkBf-7tUBk6YZ6elDA6hL3VA86fPQNGWshHviAZRcYM3HA/viewform)
 
-[*Meetups* arte e programação](https://www.meetup.com/arte-e-programacao/)
+[*meetups*](https://www.meetup.com/arte-e-programacao/)
 
-[GitHub arteprog](https://github.com/arteprog)
+[github](https://github.com/arteprog)
 
 
 #### 18/01/2017 Hackerspace Itinerante: Robôs Desenhistas
