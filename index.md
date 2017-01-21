@@ -1,17 +1,19 @@
 # arteprog
-	
-[Cursos de arte e programação](http://arteprog.github.io/cursos/)
+arte e programação
 
-[*Meetups* arte e programação](https://www.meetup.com/arte-e-programacao/)
+[projetos](/projetos/)
 
-[Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing)
+[cursos](http://arteprog.github.io/cursos/)
 
-[GitHub arteprog](https://github.com/arteprog)
+[pessoas](http://arteprog.github.io/membros/)
 
-[Pessoas](http://arteprog.github.io/membros/)
+[**contato**](https://docs.google.com/forms/d/e/1FAIpQLSdIbkBf-7tUBk6YZ6elDA6hL3VA86fPQNGWshHviAZRcYM3HA/viewform)
 
-[**Contato**](https://docs.google.com/forms/d/e/1FAIpQLSdIbkBf-7tUBk6YZ6elDA6hL3VA86fPQNGWshHviAZRcYM3HA/viewform)
+   [*meetups*](https://www.meetup.com/arte-e-programacao/)
 
+   [github](https://github.com/arteprog)
+
+## log
 
 #### 18/01/2017 Hackerspace Itinerante: Robôs Desenhistas
 
