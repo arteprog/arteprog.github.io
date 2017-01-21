@@ -9,11 +9,11 @@ arte e programação
 
 [**contato**](https://docs.google.com/forms/d/e/1FAIpQLSdIbkBf-7tUBk6YZ6elDA6hL3VA86fPQNGWshHviAZRcYM3HA/viewform)
 
-    [*meetups*](https://www.meetup.com/arte-e-programacao/)
+   [*meetups*](https://www.meetup.com/arte-e-programacao/)
 
-    [github](https://github.com/arteprog)
+   [github](https://github.com/arteprog)
 
-### log
+## log
 
 #### 18/01/2017 Hackerspace Itinerante: Robôs Desenhistas
 
