@@ -14,6 +14,7 @@ arte e programação
 [**contato**](https://docs.google.com/forms/d/e/1FAIpQLSdIbkBf-7tUBk6YZ6elDA6hL3VA86fPQNGWshHviAZRcYM3HA/viewform)
 
 
+
 ## *log*
 
 #### 18/01/2017 Hackerspace Itinerante: Robôs Desenhistas
