@@ -21,8 +21,8 @@ arte e programação
 
 ![robosdesenhistas](https://github.com/MonicaRizzolli/arteprog.github.io/blob/master/assets/images/hackerspace_itinerante_18012017.jpg?raw=true)
 
-![butanta1](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/hsi_butanta1.JPG?raw=true)
-![butanta2](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/hsi_butanta2.JPG?raw=true)
-![butanta3](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/hsi_butanta3.JPG?raw=true)
+![butanta1](arteprog.github.io/assets/images/hsi_butanta1.JPG = 250x)
+![butanta2](arteprog.github.io/assets/images/hsi_butanta2.JPG)
+![butanta3](arteprog.github.io/assets/images/hsi_butanta3.JPG)
 
 [+ MAIS INFORMAÇÕES](https://hackerspaceitinerante.wordpress.com/)
