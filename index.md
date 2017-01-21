@@ -3,7 +3,7 @@ arte e programação
 
 [projetos](/projetos/)<br>
 [cursos](http://arteprog.github.io/cursos/)<br>
-[pessoas](http://arteprog.github.io/membros/)<br>
+[pessoas](/pessoas/)<br>
 [*meetups*](https://www.meetup.com/arte-e-programacao/)<br>
 [github](https://github.com/arteprog)<br>
 [**contato**](https://docs.google.com/forms/d/e/1FAIpQLSdIbkBf-7tUBk6YZ6elDA6hL3VA86fPQNGWshHviAZRcYM3HA/viewform)
