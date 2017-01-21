@@ -7,11 +7,11 @@ arte e programação
 
 [pessoas](http://arteprog.github.io/membros/)
 
-[**contato**](https://docs.google.com/forms/d/e/1FAIpQLSdIbkBf-7tUBk6YZ6elDA6hL3VA86fPQNGWshHviAZRcYM3HA/viewform)
+1. [contato](https://docs.google.com/forms/d/e/1FAIpQLSdIbkBf-7tUBk6YZ6elDA6hL3VA86fPQNGWshHviAZRcYM3HA/viewform)
 
-> [*meetups*](https://www.meetup.com/arte-e-programacao/)
+2. [*meetups*](https://www.meetup.com/arte-e-programacao/)
 
-> [github](https://github.com/arteprog)
+3. [github](https://github.com/arteprog)
 
 
 ## *log*
