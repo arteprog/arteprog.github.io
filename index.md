@@ -11,6 +11,12 @@ arte e programação
 
 ## arteprog*'s log*
 
+#### 28/02/2017 Noite de Processing: Arte gerativa e Processing modo Python - Monica Rizzolli e Alexandre Villares
+
+![convitendp13](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/ndp13.jpg?raw=true)
+
+[+ MAIS INFORMAÇÕES](https://garoa.net.br/wiki/Noite_de_Processing#28.2F02.2F2017_Arte_gerativa_e_Processing_modo_Python_-_Monica_Rizzolli_e_Alexandre_Villares)
+
 #### 31/01/2017 Noite de Processing: Instalações Audiovisuais Interativas - Pablo Villavicencio
 
 ![convitendp12](https://garoa.net.br/w/images/thumb/Pablondp.jpg/600px-Pablondp.jpg)
