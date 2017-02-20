@@ -178,8 +178,8 @@ li > p {
 blockquote {
   margin: 0 0 1rem;
   padding: 0 1rem;
-  color: #7d7d7d;
-  border-left: 4px solid #d6d6d6;
+  color: #000;
+  border-left: 4px solid #000000;
 }
 
 blockquote > :first-child {
