@@ -176,7 +176,8 @@ li > p {
 }
 
 blockquote {
-  margin: 0 2rem 1rem;
+  font-size: 0.7em; 
+  margin: 0 2rem 1rem; 
   padding: 0 1rem;
   color: #000;
   border-left: 4px solid #000000;
