@@ -13,7 +13,7 @@ arte e programação
 
 #### 12/03/2017 Oficina: Jogo “Pong” com Processing e Arduino - SESC Itaquera, 13h às 17h
 
-FESTA! Festival de Aprender - Uma celebração às múltiplas possibilidades de experimentação e criação artísticas
+[FESTA!](https://www.sescsp.org.br/programacao/115761_FESTA+FESTIVAL+DE+APRENDER) Festival de Aprender - Uma celebração às múltiplas possibilidades de experimentação e criação artísticas
 
 ![hsi_itaquera](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/hsi_sescItaquera.jpg?raw=true)
 
