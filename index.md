@@ -13,6 +13,10 @@ arte e programação
 
 #### 12/03/2017 Oficina: Jogo “Pong” com Processing e Arduino - SESC Itaquera
 
+FESTA! Festival de Aprender - Uma celebração às múltiplas possibilidades de experimentação e criação artísticas
+SESC Itaquera
+Domingo, 13h às 17h
+
 ![hsi_itaquera](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/hsi_sescItaquera.jpg?raw=true)
 
 Nesta atividade, o público terá uma oficina de introdução à plataforma Processing e à lógica de programação por meio da construção de um jogo simples, com materiais diversos de eletroeletrônica. Com isso, os participantes poderão disputar partidas com o console criado com Arduino. Com Alexandre B. A. Villares e Monica Rizzolli. 
