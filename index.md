@@ -23,6 +23,10 @@ Nesta atividade, o público terá uma oficina de introdução à plataforma Proc
 
 ![convitendp13](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/ndp13_600px.jpg?raw=true)
 
+[Material da apresentação sobre Arte Gerativa](https://garoa.net.br/wiki/Arte_Gerativa)
+
+[Material sobre o Processing modo Python](https://garoa.net.br/wiki/Processing_Modo_Python)
+
 [+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing#28.2F02.2F2017_Arte_gerativa_e_Processing_modo_Python_-_Monica_Rizzolli_e_Alexandre_Villares)
 
 #### 31/01/2017 Noite de Processing: Instalações Audiovisuais Interativas - Pablo Villavicencio
