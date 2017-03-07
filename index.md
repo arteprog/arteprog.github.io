@@ -11,20 +11,27 @@ arte e programação
 
 ## arteprog*'s log*
 
+#### 12/03/2017 OFICINA Jogo “Pong” com Processing e Arduino
+
+![hsi_itaquera](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/hsi_sescItaquera.jpg?raw=true)
+Nesta atividade, o público terá uma oficina de introdução à plataforma Processing e à lógica de programação por meio da construção de um jogo simples, com materiais diversos de eletroeletrônica. Com isso, os participantes poderão disputar partidas com o console criado com Arduino. Com Alexandre B. A. Villares e Monica Rizzolli. 
+
+[+ INFOS](https://m.sescsp.org.br/#/cursos/117213)
+
 #### 28/02/2017 Noite de Processing: Arte gerativa e Processing modo Python - Monica Rizzolli e Alexandre Villares
 
 ![convitendp13](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/ndp13_600px.jpg?raw=true)
 
-[+ MAIS INFORMAÇÕES](https://garoa.net.br/wiki/Noite_de_Processing#28.2F02.2F2017_Arte_gerativa_e_Processing_modo_Python_-_Monica_Rizzolli_e_Alexandre_Villares)
+[+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing#28.2F02.2F2017_Arte_gerativa_e_Processing_modo_Python_-_Monica_Rizzolli_e_Alexandre_Villares)
 
 #### 31/01/2017 Noite de Processing: Instalações Audiovisuais Interativas - Pablo Villavicencio
 
 ![convitendp12](https://garoa.net.br/w/images/thumb/Pablondp.jpg/600px-Pablondp.jpg)
 
-[+ MAIS INFORMAÇÕES](https://garoa.net.br/wiki/Noite_de_Processing#31.2F01.2F2017_Instala.C3.A7.C3.B5es_audiovisuais_interativas_-_Pablo_Villavicencio)
+[+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing#31.2F01.2F2017_Instala.C3.A7.C3.B5es_audiovisuais_interativas_-_Pablo_Villavicencio)
 
 #### 18/01/2017 Hackerspace Itinerante: Robôs Desenhistas
 
 ![robosdesenhistas](https://github.com/MonicaRizzolli/arteprog.github.io/blob/master/assets/images/hackerspace_itinerante_18012017.jpg?raw=true)
 
-[+ MAIS INFORMAÇÕES](https://hackerspaceitinerante.wordpress.com/)
+[+ INFOS](https://hackerspaceitinerante.wordpress.com/)
