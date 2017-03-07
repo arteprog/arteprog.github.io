@@ -11,9 +11,10 @@ arte e programação
 
 ## arteprog*'s log*
 
-#### 12/03/2017 OFICINA Jogo “Pong” com Processing e Arduino
+#### 12/03/2017 Oficina: Jogo “Pong” com Processing e Arduino
 
 ![hsi_itaquera](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/hsi_sescItaquera.jpg?raw=true)
+
 Nesta atividade, o público terá uma oficina de introdução à plataforma Processing e à lógica de programação por meio da construção de um jogo simples, com materiais diversos de eletroeletrônica. Com isso, os participantes poderão disputar partidas com o console criado com Arduino. Com Alexandre B. A. Villares e Monica Rizzolli. 
 
 [+ INFOS](https://m.sescsp.org.br/#/cursos/117213)
