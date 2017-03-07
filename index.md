@@ -11,7 +11,7 @@ arte e programação
 
 ## arteprog*'s log*
 
-#### 12/03/2017 Oficina: Jogo “Pong” com Processing e Arduino
+#### 12/03/2017 Oficina: Jogo “Pong” com Processing e Arduino - SESC Itaquera
 
 ![hsi_itaquera](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/hsi_sescItaquera.jpg?raw=true)
 
