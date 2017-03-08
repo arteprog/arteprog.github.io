@@ -1,5 +1,5 @@
 document.write('<hr>\
-<p><a href="/"><b>arteprog<b></a> arte e programação\
+<p><a href="/"><b>arteprog</b></a> arte e programação\
  | <a href="/projetos/">projetos</a>\
  | <a href="/cursos/">cursos</a>\
  | <a href="/pessoas/">pessoas</a>\
