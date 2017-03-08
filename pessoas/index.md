@@ -7,4 +7,14 @@
 ### Alexandre Villares
 É arquiteto graduado pela FAU-USP, professor na Escola da Cidade - Faculdade de Arquitetura e Urbanismo, desde 2005, aluno de mestrado na FEC/Unicamp. Trabalha com ensino de ferramentas de modelagem 3D, fabricação digital e programação criativa para arquitetos, designers, artistas visuais, crianças, jovens e interessados em geral. Co-organizador da Noite de Processing e membro associado do Garoa Hacker Clube.
 [https://abav.lugaralgum.com](https://abav.lugaralgum.com)
+
+<hr>
+[arteprog](/) arte e programaço
+ | [projetos](/projetos/)
+ | [cursos](/cursos/)
+ | [pessoas](/pessoas/)
+ | [*meetups*](https://www.meetup.com/arte-e-programacao/)
+ | [github](https://github.com/arteprog)
+ | [**contato**](https://docs.google.com/forms/d/e/1FAIpQLSdIbkBf-7tUBk6YZ6elDA6hL3VA86fPQNGWshHviAZRcYM3HA/viewform)
+
  
