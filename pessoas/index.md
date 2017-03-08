@@ -10,4 +10,4 @@
 É arquiteto graduado pela FAU-USP, professor na Escola da Cidade - Faculdade de Arquitetura e Urbanismo, desde 2005. Aluno de mestrado na FEC/Unicamp - Arquitetura, Tecnologia e Cidade. Trabalha com ensino de ferramentas de modelagem 3D, fabricação digital e programação criativa para arquitetos, designers, artistas visuais, crianças, jovens e interessados em geral. Co-organizador da Noite de Processing e membro associado do Garoa Hacker Clube.
 [https://abav.lugaralgum.com](https://abav.lugaralgum.com)
 
-<!--#include virtual="..\footer.html" --> 
+<object type="text/html" data="..\footer.html"></object>
