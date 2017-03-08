@@ -11,3 +11,5 @@ Noite de Processing é um encontro regular para conversar sobre arte e programa�
 ### Processando Processing
 Processando Processing é um esforço para: traduzir para o português material de referência sobre Processing; e portar para o Processing Modo Python tutoriais e outros exemplos. O resultado é sempre publicado com licenças abertas semelhantes às do material original. [Doações](https://www.patreon.com/arteprog) feitas para arteprog vão contribuir para manter este projeto.<br>
 [https://github.com/arteprog/Processando-Processing](https://github.com/arteprog/Processando-Processing)
+
+ <script src="../footer.js"></script>
