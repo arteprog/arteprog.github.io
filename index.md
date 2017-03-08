@@ -19,6 +19,8 @@ O curso tem como objetivo promover a familiarização dos participantes com a ar
 
 [+ INFOS](https://www.sescsp.org.br/programacao/117413_PROGRAMACAO+CRIATIVA)
 
+<hr>
+
 #### 12/03/2017 Oficina: Jogo “Pong” com Processing e Arduino - SESC Itaquera, 13h às 17h
 
 [FESTA!](https://www.sescsp.org.br/programacao/115761_FESTA+FESTIVAL+DE+APRENDER) Festival de Aprender - Uma celebração às múltiplas possibilidades de experimentação e criação artísticas
@@ -28,6 +30,8 @@ O curso tem como objetivo promover a familiarização dos participantes com a ar
 Nesta atividade, o público terá uma oficina de introdução à plataforma Processing e à lógica de programação por meio da construção de um jogo simples, com materiais diversos de eletroeletrônica. Com isso, os participantes poderão disputar partidas com o console criado com Arduino. Com Alexandre B. A. Villares e Monica Rizzolli. 
 
 [+ INFOS](https://m.sescsp.org.br/#/cursos/117213)
+
+<hr>
 
 #### 28/02/2017 Noite de Processing: Arte gerativa e Processing modo Python - Monica Rizzolli e Alexandre Villares
 
@@ -39,11 +43,15 @@ Nesta atividade, o público terá uma oficina de introdução à plataforma Proc
 
 [+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing#28.2F02.2F2017_Arte_gerativa_e_Processing_modo_Python_-_Monica_Rizzolli_e_Alexandre_Villares)
 
+<hr>
+
 #### 31/01/2017 Noite de Processing: Instalações Audiovisuais Interativas - Pablo Villavicencio
 
 ![convitendp12](https://garoa.net.br/w/images/thumb/Pablondp.jpg/600px-Pablondp.jpg)
 
 [+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing#31.2F01.2F2017_Instala.C3.A7.C3.B5es_audiovisuais_interativas_-_Pablo_Villavicencio)
+
+<hr>
 
 #### 18/01/2017 Hackerspace Itinerante: Robôs Desenhistas
 
