@@ -1,3 +1,6 @@
+# cursos
+<hr>
+
 ### Arte digital e programação criativa
 
 Este curso tem como objetivo promover o contato dos participantes com a arte computacional por meio de aulas práticas usando Processing, plataforma de programação de código aberto amplamente utilizada por artistas. Também é estimulada a reflexão a partir da análise de obras e leituras sobre o assunto. 30h ou 36h
@@ -32,3 +35,14 @@ Requer equipamentos de frabricação digital como fresa CNC e cortadora laser. 4
 ### Introdução à programação e eletrônica com Arduino
 
 Atividade curta de introdução à programação e eletrônica com Arduino, plataforma aberta amplamente utilizada por artistas, inventores, educadores e entusiastas do "faça você mesmo" em geral. 4h
+
+<hr>
+[arteprog](/) arte e programaço
+ | [projetos](/projetos/)
+ | [cursos](/cursos/)
+ | [pessoas](/pessoas/)
+ | [*meetups*](https://www.meetup.com/arte-e-programacao/)
+ | [github](https://github.com/arteprog)
+ | [**contato**](https://docs.google.com/forms/d/e/1FAIpQLSdIbkBf-7tUBk6YZ6elDA6hL3VA86fPQNGWshHviAZRcYM3HA/viewform)
+
+ 
