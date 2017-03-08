@@ -320,7 +320,7 @@ hr {
   box-sizing: content-box;
   overflow: visible;
   background: transparent;
-  height: 2px;
+  height: 4px;
   padding: 0;
   margin: 1em 0;
   background-color: #000;
