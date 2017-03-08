@@ -1,5 +1,4 @@
-# arteprog
-arte e programação
+<p class="h0"><strong>arteprog</strong> arte e programação</p>
 
 [projetos](/projetos/)<br>
 [cursos](http://arteprog.github.io/cursos/)<br>
