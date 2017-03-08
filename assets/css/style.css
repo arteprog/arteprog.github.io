@@ -76,7 +76,8 @@ small {
 }
 
 .h0 {
-   line-height: 1.0em;
+  font-size: 2em;
+  line-height: 1.0em;
   margin-top: 1.5rem;
   margin-bottom: 0.5rem;
   position: relative;
