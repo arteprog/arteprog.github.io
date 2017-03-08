@@ -9,7 +9,7 @@
 [**contato**](https://docs.google.com/forms/d/e/1FAIpQLSdIbkBf-7tUBk6YZ6elDA6hL3VA86fPQNGWshHviAZRcYM3HA/viewform)
 
 
-## arteprog*'s log*
+## próximos eventos*
 <hr>
 
 #### 22/03 a 13/04/2017 Curso: Programação Criativa - SESC São José dos Campos, qua/qui 19h
@@ -44,6 +44,7 @@ Nesta atividade, o público terá uma oficina de introdução à plataforma Proc
 
 [+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing#28.2F02.2F2017_Arte_gerativa_e_Processing_modo_Python_-_Monica_Rizzolli_e_Alexandre_Villares)
 
+## próximos eventos*
 <hr>
 
 #### 31/01/2017 Noite de Processing: Instalações Audiovisuais Interativas - Pablo Villavicencio
