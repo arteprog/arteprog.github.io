@@ -32,8 +32,6 @@ Nesta atividade, o público terá uma oficina de introdução à plataforma Proc
 
 [+ INFOS](https://m.sescsp.org.br/#/cursos/117213)
 
-<hr>
-
 ### eventos passados
 <hr>
 
