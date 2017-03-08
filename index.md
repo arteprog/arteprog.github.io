@@ -10,6 +10,7 @@ arte e programação
 
 
 ## arteprog*'s log*
+<hr>
 
 #### 22/03 a 13/04/2017 Curso: Programação Criativa - SESC São José dos Campos, qua/qui 19h
 
