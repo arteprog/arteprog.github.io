@@ -1,4 +1,5 @@
 <p class="h0"><strong>arteprog</strong> arte e programação</p>
+<hr>
 
 [projetos](/projetos/)<br>
 [cursos](http://arteprog.github.io/cursos/)<br>
