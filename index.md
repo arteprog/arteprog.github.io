@@ -6,6 +6,7 @@
 [pessoas](/pessoas/)<br>
 [*meetups*](https://www.meetup.com/arte-e-programacao/)<br>
 [github](https://github.com/arteprog)<br>
+[doações](https://www.patreon.com/arteprog)<br>
 [**contato**](https://docs.google.com/forms/d/e/1FAIpQLSdIbkBf-7tUBk6YZ6elDA6hL3VA86fPQNGWshHviAZRcYM3HA/viewform)
 
 
