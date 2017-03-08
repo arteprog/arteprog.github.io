@@ -11,6 +11,14 @@ arte e programação
 
 ## arteprog*'s log*
 
+#### 22/03 a 13/04/2017 Curso: Programação Criativa - SESC São José dos Campos, qua/qui 19h
+
+![pc_sjc](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/pc_sjc.jpg?raw=true)
+
+O curso tem como objetivo promover a familiarização dos participantes com a arte computacional por meio de aulas práticas, utilizando Processing, linguagem de programação em código aberto amplamente utilizada por artistas, assim como estimular a reflexão a partir da análise de obras e leituras sobre o assunto.
+
+[+ INFOS](https://www.sescsp.org.br/programacao/117413_PROGRAMACAO+CRIATIVA)
+
 #### 12/03/2017 Oficina: Jogo “Pong” com Processing e Arduino - SESC Itaquera, 13h às 17h
 
 [FESTA!](https://www.sescsp.org.br/programacao/115761_FESTA+FESTIVAL+DE+APRENDER) Festival de Aprender - Uma celebração às múltiplas possibilidades de experimentação e criação artísticas
