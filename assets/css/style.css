@@ -320,10 +320,10 @@ hr {
   box-sizing: content-box;
   overflow: visible;
   background: transparent;
-  height: 4px;
+  height: 2px;
   padding: 0;
   margin: 1em 0;
-  background-color: #e7e7e7;
+  background-color: #000;
   border: 0 none;
 }
 
