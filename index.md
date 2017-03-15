@@ -21,6 +21,14 @@ O curso tem como objetivo promover a familiarização dos participantes com a ar
 
 [+ INFOS](https://www.sescsp.org.br/programacao/117413_PROGRAMACAO+CRIATIVA)
 
+<hr>
+
+#### 28/03/2017 Noite de Processing: Processos de Ensino-aprendizagem num Espaço de Tecnologias e Artes - Fabricio Masutti
+
+A fala será sobre o Ateliê Digital Aberto, projeto desenvolvido no Sesc Sorocaba com a finalidade de possibilitar o desenvolvimento de projetos artísticos e educacionais pela comunidade. Em resumo, o Ateliê é uma atividade de mediação de projetos em Arte e Tecnologia com o uso do equipamentos da unidade do Sesc. Também é um espaço de troca e compartilhamento de conhecimento entre os participantes, servindo como um laboratório de onde surgem as mais diversas demandas. Em segundo plano, a fala é sobre a cultura maker, o faça-você-mesmo e a produção artística de guerrilha.
+
+[+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing#28.2F03.2F2017_Processos_de_Ensino-aprendizagem_num_Espa.C3.A7o_de_Tecnologias_e_Artes_-_Fabricio_Masutti)
+
 ### eventos passados
 <hr>
 
