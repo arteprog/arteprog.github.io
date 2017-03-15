@@ -42,7 +42,6 @@ Neste sábado, dia 18, o Fab Lab CEU Heliópolis recebe os parceiros do Garoa Ha
 A atividade é gratuita, para iniciantes e já iniciados, sem inscrição prévia.
 
 Como chegar no Fab Lab CEU Heliópolis: De metrô, vá até a estação Sacomã [linha verde] e pegue o ônibus 5031-10 no terminal anexo à estação. Uma das paradas dessa linha deixa na porta do CEU Heliópolis. Tempo estimado de chegada, saindo da Av. Paulista: cerca de 45 minutos.
-<hr>
 
 ### eventos passados
 <hr>
