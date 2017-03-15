@@ -13,6 +13,16 @@
 ### próximos eventos
 <hr>
 
+#### 28/03/2017 Noite de Processing: Processos de Ensino-aprendizagem num Espaço de Tecnologias e Artes - Fabricio Masutti
+
+![ndp14](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/Convite_Masutti_ndp.png?raw=true)
+
+A fala será sobre o Ateliê Digital Aberto, projeto desenvolvido no Sesc Sorocaba com a finalidade de possibilitar o desenvolvimento de projetos artísticos e educacionais pela comunidade. Em resumo, o Ateliê é uma atividade de mediação de projetos em Arte e Tecnologia com o uso do equipamentos da unidade do Sesc. Também é um espaço de troca e compartilhamento de conhecimento entre os participantes, servindo como um laboratório de onde surgem as mais diversas demandas. Em segundo plano, a fala é sobre a cultura maker, o faça-você-mesmo e a produção artística de guerrilha.
+
+[+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing#28.2F03.2F2017_Processos_de_Ensino-aprendizagem_num_Espa.C3.A7o_de_Tecnologias_e_Artes_-_Fabricio_Masutti)
+
+<hr>
+
 #### 22/03 a 13/04/2017 Curso: Programação Criativa - SESC São José dos Campos, qua/qui 19h
 
 ![pc_sjc](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/pc_sjc.jpg?raw=true)
@@ -23,13 +33,16 @@ O curso tem como objetivo promover a familiarização dos participantes com a ar
 
 <hr>
 
-#### 28/03/2017 Noite de Processing: Processos de Ensino-aprendizagem num Espaço de Tecnologias e Artes - Fabricio Masutti
+#### 18/03/2017 Hackerspace Itinerante: Fab Lab CEU Heliópolis 
 
-![ndp14](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/Convite_Masutti_ndp.png?raw=true)
+![gif](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/source.gif?raw=true)
 
-A fala será sobre o Ateliê Digital Aberto, projeto desenvolvido no Sesc Sorocaba com a finalidade de possibilitar o desenvolvimento de projetos artísticos e educacionais pela comunidade. Em resumo, o Ateliê é uma atividade de mediação de projetos em Arte e Tecnologia com o uso do equipamentos da unidade do Sesc. Também é um espaço de troca e compartilhamento de conhecimento entre os participantes, servindo como um laboratório de onde surgem as mais diversas demandas. Em segundo plano, a fala é sobre a cultura maker, o faça-você-mesmo e a produção artística de guerrilha.
+Neste sábado, dia 18, o Fab Lab CEU Heliópolis recebe os parceiros do Garoa Hacker Clube para as atividades do Hackerspace Itinerante! Ao longo da manhã, a partir das 9 horas, o coletivo promove oficinas envolvendo temas como arte+tecnologia, eletrônica, programação (com processing), microcontroladores (arduino), entre outros assuntos.
 
-[+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing#28.2F03.2F2017_Processos_de_Ensino-aprendizagem_num_Espa.C3.A7o_de_Tecnologias_e_Artes_-_Fabricio_Masutti)
+A atividade é gratuita, para iniciantes e já iniciados, sem inscrição prévia.
+
+Como chegar no Fab Lab CEU Heliópolis: De metrô, vá até a estação Sacomã [linha verde] e pegue o ônibus 5031-10 no terminal anexo à estação. Uma das paradas dessa linha deixa na porta do CEU Heliópolis. Tempo estimado de chegada, saindo da Av. Paulista: cerca de 45 minutos.
+<hr>
 
 ### eventos passados
 <hr>
