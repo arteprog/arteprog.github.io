@@ -50,7 +50,7 @@ Como chegar no Fab Lab CEU Heliópolis: De metrô, vá até a estação Sacomã 
 
 [FESTA!](https://www.sescsp.org.br/programacao/115761_FESTA+FESTIVAL+DE+APRENDER) Festival de Aprender - Uma celebração às múltiplas possibilidades de experimentação e criação artísticas
 
-![hsi_itaquera](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/hsi_sescItaquera.jpg?raw=true)
+![hsi_itaquera](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/hsi_sescItaquera_ss.png?raw=true)
 
 Nesta atividade, o público terá uma oficina de introdução à plataforma Processing e à lógica de programação por meio da construção de um jogo simples, com materiais diversos de eletroeletrônica. Com isso, os participantes poderão disputar partidas com o console criado com Arduino. Com Alexandre B. A. Villares e Monica Rizzolli. 
 
