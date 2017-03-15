@@ -21,6 +21,7 @@ O curso tem como objetivo promover a familiarização dos participantes com a ar
 
 [+ INFOS](https://www.sescsp.org.br/programacao/117413_PROGRAMACAO+CRIATIVA)
 
+### eventos passados
 <hr>
 
 #### 12/03/2017 Oficina: Jogo “Pong” com Processing e Arduino - SESC Itaquera, 13h às 17h
@@ -33,7 +34,6 @@ Nesta atividade, o público terá uma oficina de introdução à plataforma Proc
 
 [+ INFOS](https://m.sescsp.org.br/#/cursos/117213)
 
-### eventos passados
 <hr>
 
 #### 28/02/2017 Noite de Processing: Arte gerativa e Processing modo Python - Monica Rizzolli e Alexandre Villares
