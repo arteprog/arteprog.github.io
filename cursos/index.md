@@ -36,4 +36,9 @@ Requer equipamentos de frabricação digital como fresa CNC e cortadora laser. 4
 
 Atividade curta de introdução à programação e eletrônica com Arduino, plataforma aberta amplamente utilizada por artistas, inventores, educadores e entusiastas do "faça você mesmo" em geral. 4h
 
+### Introdução à programação com MIT App Inventor
+
+Atividade curtas de introdução á programação, com duração entre 2 e 3 horas. Tem o objetivo de aproximar as pessoas da programação pela criação de um App Android que permite densenhar sobre um foto e compartilhar. 2h ou 3h
+
+
  <script src="../footer.js"></script>
