@@ -17,8 +17,9 @@ Este curso tem como objetivo promover o contato dos participantes com a arte com
 11. Arte digital: arte interativa, data arte e arte gerativa
 12. Exercícios práticos
 
-**Cronologia do curso**
+**Cronologia do curso:**
 
 [Programação Criativa](https://www.sescsp.org.br/programacao/117413_PROGRAMACAO+CRIATIVA) - SESC São José dos Campos, São José dos Campos, de 22/03/17 a 13/04/7
 
 [Programação Criativa](https://www.sescsp.org.br/aulas/100938_PROGRAMACAO+CRIATIVA) - SESC Sorocaba, Sorocaba, de 04/08/2016 a 20/10/2016 
+
