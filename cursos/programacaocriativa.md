@@ -23,3 +23,4 @@ Este curso tem como objetivo promover o contato dos participantes com a arte com
 
 [Programação Criativa](https://www.sescsp.org.br/aulas/100938_PROGRAMACAO+CRIATIVA) - SESC Sorocaba, Sorocaba, de 04/08/2016 a 20/10/2016 
 
+<script src="../footer.js"></script>
