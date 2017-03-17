@@ -18,6 +18,10 @@ Introdução à programação num contexto visual, com o objetivo de criar peça
 Curso de introdução à programação num contexto visual, com o objetivo de explorar a produção de xilogravuras pela elaboração de formas através da programação utilizando a plataforma Processing. As gravuras serão impressas manualmente numa convergência entre produção artesanal e digital.
 Requer equipamentos de frabricação digital como fresa CNC e cortadora laser. 16h
 
+### Oficina Arte gerativa
+
+Introdução à arte gerativa, história e conceitos, intercalado com a exploração e criação de algoritmos gerativos e análise de obras. 4h
+
 ### Introdução à interação Processing + Arduino
 
 Atividade de curta duração que permite introduzir as possibilidades de programação (na plataforma Processing) com interação pelo uso de sensores (usando a plataforma Arduino). 3h
