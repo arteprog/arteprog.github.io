@@ -2,7 +2,7 @@
 
 Este curso tem como objetivo promover o contato dos participantes com a arte computacional por meio de aulas práticas usando Processing, plataforma de programação de código aberto amplamente utilizada por artistas. Também é estimulada a reflexão a partir da análise de obras e leituras sobre o assunto. 30h ou 36h
 
-*Tópicos do curso:*
+**Tópicos do curso:**
 
 1. Introdução: o que é código?, forma e computador, o que é Processing?, instalação e configuração do processing, instrodução ao ambiente, como consultar referências das funções e desenho básico (forma, linha e cor)
 2. Variáveis, loops e condicional
@@ -17,4 +17,8 @@ Este curso tem como objetivo promover o contato dos participantes com a arte com
 11. Arte digital: arte interativa, data arte e arte gerativa
 12. Exercícios práticos
 
+**Cronologia do curso**
 
+[Programação Criativa](https://www.sescsp.org.br/programacao/117413_PROGRAMACAO+CRIATIVA) - SESC São José dos Campos, São José dos Campos, de 22/03/17 a 13/04/7
+
+[Programação Criativa](https://www.sescsp.org.br/aulas/100938_PROGRAMACAO+CRIATIVA) - SESC Sorocaba, Sorocaba, de 04/08/2016 a 20/10/2016 
