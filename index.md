@@ -31,8 +31,6 @@ O curso tem como objetivo promover a familiarização dos participantes com a ar
 
 [+ INFOS](https://www.sescsp.org.br/programacao/117413_PROGRAMACAO+CRIATIVA)
 
-<hr>
-
 ### eventos passados
 <hr>
 
