@@ -33,6 +33,9 @@ O curso tem como objetivo promover a familiarização dos participantes com a ar
 
 <hr>
 
+### eventos passados
+<hr>
+
 #### 18/03/2017 Hackerspace Itinerante: Fab Lab CEU Heliópolis 
 
 ![gif](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/source.gif?raw=true)
@@ -43,7 +46,6 @@ A atividade é gratuita, para iniciantes e já iniciados, sem inscrição prévi
 
 Como chegar no Fab Lab CEU Heliópolis: De metrô, vá até a estação Sacomã [linha verde] e pegue o ônibus 5031-10 no terminal anexo à estação. Uma das paradas dessa linha deixa na porta do CEU Heliópolis. Tempo estimado de chegada, saindo da Av. Paulista: cerca de 45 minutos.
 
-### eventos passados
 <hr>
 
 #### 12/03/2017 Oficina: Jogo “Pong” com Processing e Arduino - SESC Itaquera, 13h às 17h
