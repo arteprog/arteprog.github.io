@@ -23,6 +23,19 @@ A fala será sobre o Ateliê Digital Aberto, projeto desenvolvido no Sesc Soroca
 
 <hr>
 
+#### 25/3/2017 Oficina de introdução à programação com MIT App Inventor
+
+![AppInventor](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/170325_app_inventor.jpg?raw=true)
+
+Uma oficina divertida para aprender como fazer um aplicativo de desenho para Android. Não requer nenhum conhecimento prévio de programação. Traga um laptop, muita vontade de aprender. Não necessita reservar vaga.
+Geek's Beer - Rua Oscar Freire, 2292 - São Paulo, SP.
+
+[+ INFOS](https://www.facebook.com/events/1689415094409273/)
+
+<hr>
+
+### eventos passados
+
 #### 22/03 a 13/04/2017 Curso: Programação Criativa - SESC São José dos Campos, qua/qui 19h
 
 ![pc_sjc](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/pc_sjc.jpg?raw=true)
@@ -31,7 +44,6 @@ O curso tem como objetivo promover a familiarização dos participantes com a ar
 
 [+ INFOS](https://www.sescsp.org.br/programacao/117413_PROGRAMACAO+CRIATIVA)
 
-### eventos passados
 <hr>
 
 #### 18/03/2017 Hackerspace Itinerante: Fab Lab CEU Heliópolis 
