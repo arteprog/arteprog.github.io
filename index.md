@@ -25,7 +25,7 @@ A fala será sobre o Ateliê Digital Aberto, projeto desenvolvido no Sesc Soroca
 
 #### 25/3/2017 Oficina de introdução à programação com MIT App Inventor
 
-![AppInventor](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/170325_app_inventor.jpg?raw=true)
+![AppInventor](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/170325_app_inventor.jpg.jpg?raw=true)
 
 Uma oficina divertida para aprender como fazer um aplicativo de desenho para Android. Não requer nenhum conhecimento prévio de programação. Traga um laptop, muita vontade de aprender. Não necessita reservar vaga.
 Geek's Beer - Rua Oscar Freire, 2292 - São Paulo, SP.
