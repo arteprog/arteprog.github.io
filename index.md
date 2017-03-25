@@ -32,9 +32,8 @@ Geek's Beer - Rua Oscar Freire, 2292 - São Paulo, SP.
 
 [+ INFOS](https://www.facebook.com/events/1689415094409273/)
 
-<hr>
-
 ### eventos passados
+<hr>
 
 #### 22/03 a 13/04/2017 Curso: Programação Criativa - SESC São José dos Campos, qua/qui 19h
 
