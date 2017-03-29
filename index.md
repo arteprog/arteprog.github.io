@@ -13,6 +13,9 @@
 ### próximos eventos
 <hr>
 
+### eventos passados
+<hr>
+
 #### 28/03/2017 Noite de Processing: Processos de Ensino-aprendizagem num Espaço de Tecnologias e Artes - Fabricio Masutti
 
 ![ndp14](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/Convite_Masutti_ndp.png?raw=true)
@@ -32,7 +35,6 @@ Geek's Beer - Rua Oscar Freire, 2292 - São Paulo, SP.
 
 [+ INFOS](https://www.facebook.com/events/1689415094409273/)
 
-### eventos passados
 <hr>
 
 #### 22/03 a 13/04/2017 Curso: Programação Criativa - SESC São José dos Campos, qua/qui 19h
