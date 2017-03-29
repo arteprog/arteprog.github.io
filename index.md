@@ -20,7 +20,7 @@
 Arduino Day é um evento mundial e a rede pública de laboratórios de fabricação digital está participando deste importante dia para comemorar os avanços tecnológicos democraticamente compartilhados e acessíveis por todos. Neste dia, além das oficinas nos 12 laboratórios da rede, há uma série de atividades que serão sediadas no Centro Cultural São Paulo.
 
 Centro Cultural São Paulo - FabLab CCSP:
-15h00 às 17h00 - Dojo Processing + Arduino, com Alexandre Villares e Monica Rizzolli no Hackerspace Itinerante,
+15h00 às 17h00 - Dojo Processing + Arduino, com **Alexandre Villares e Monica Rizzolli** no [Hackerspace Itinerante](https://hackerspaceitinerante.wordpress.com/).
 
 Centro Cultural São Paulo - Sala Adoniran Barbosa:
 19h15 às 20h00 - As fronteiras da tecnologia ( Juliana Harrison / **Monica Rizzolli** / Rodrigo Terra / Thiago Lima)
