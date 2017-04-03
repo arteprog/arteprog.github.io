@@ -26,6 +26,7 @@ Veja o diário de bordo desse projeto de letramento digital da Fundação Maurí
 
 > “Nós procuramos um hackerspace porque desejávamos desenvolver projetos inusuais, experimentais – focados no processo – gerando experiências divertidas e aprendizado significativo no contexto de arte e tecnologia. A presença de jovens em um hackerspace é desejável não só pelas possibilidades citadas acima como também pelas oportunidades de convívio e desenvolvimento de habilidades sociais. Os jovens contribuem ativamente com novas demandas – baseadas na sua realidade  – rompendo pressupostos e consequentemente renovando a dinâmica do espaço.Ao mesmo tempo têm a possibilidade de interagir com pessoas mais experientes, inclusive no mercado de trabalho, e de contato com assuntos novos e diversos.” Explicam Alexandre Villares e Monica Rizzolli.
 
+<hr>
 
 #### 01/04/2017 Arduino Day 2017 - Centro Cultural São Paulo
 
