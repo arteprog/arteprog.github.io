@@ -22,7 +22,6 @@ a) Computação sem Computadores - tem como objetivo ensinar de forma lúdica al
 b) Programação Criativa - tem como objetivo promover a familiarização dos participantes com a arte computacional por meio de aulas práticas usando Processing¹ visando estimular a curiosidade, e a reflexão a partir da análise de obras e leituras sobre o assunto.   Neste módulo os participantes irão aprender sobre números binários através de jogos; a desenhar com Processing¹; usar o jogo Batalha Naval para aprender algoritmos de busca; e conhecer padrões geométricos desenhando com loops.
 
 [+ INFOS](https://www.sescsp.org.br/programacao/117781_PROGRAMACAO+DE+COMPUTADORES+JOGOS+E+PADROES)
-<hr>
 
 ### eventos passados
 <hr>
