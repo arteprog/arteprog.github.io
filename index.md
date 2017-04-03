@@ -13,7 +13,16 @@
 ### próximos eventos
 <hr>
 
-#### Curso: 
+#### Curso: Programação de computadores - Jogos e padrões - SESC Itaquera, dom 14h
+
+![itaquera](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/Screen%20Shot%202017-04-03%20at%208.01.08%20PM.png?raw=true)
+
+Computadores fazem parte do cotidiano de todos nós, mas muita gente nem imagina como eles funcionam por dentro. Neste curso os participantes irão aprender como os computadores pensam através de dois eixos de aprendizagem: 
+a) Computação sem Computadores - tem como objetivo ensinar de forma lúdica alguns conceitos fundamentais da Ciência da Computação sem o uso da eletrônica, e ajudar a entender como o computador funciona através de jogos e brincadeiras, estimulando o desenvolvimento de habilidades de comunicação, criatividade e resolução de problemas. O eixo é baseado na metodologia CS Unplugged (Computer Science without a Computer - Universidade de Canterbury).  
+b) Programação Criativa - tem como objetivo promover a familiarização dos participantes com a arte computacional por meio de aulas práticas usando Processing¹ visando estimular a curiosidade, e a reflexão a partir da análise de obras e leituras sobre o assunto.   Neste módulo os participantes irão aprender sobre números binários através de jogos; a desenhar com Processing¹; usar o jogo Batalha Naval para aprender algoritmos de busca; e conhecer padrões geométricos desenhando com loops.
+
+[+ INFOS](https://www.sescsp.org.br/programacao/117781_PROGRAMACAO+DE+COMPUTADORES+JOGOS+E+PADROES)
+<hr>
 
 ### eventos passados
 <hr>
