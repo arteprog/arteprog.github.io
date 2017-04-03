@@ -13,6 +13,19 @@
 ### próximos eventos
 <hr>
 
+#### Go Code na Noite de Processing.
+
+A terceira edição do Go Code trouxe uma novidade oferecida pelo Instituto Jama: Quatro alunos do curso seriam levados para uma viagem de imersão em tecnologia em São Paulo. A primeira parada do grupo foi no Garoa Hacker Clube, na Noite de Processing com Fabricio Masutti!
+
+![masutti](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/download-1.jpg?raw=true)
+
+Veja o diário de bordo desse projeto de letramento digital da Fundação Maurício Sirotsky Sobrinho [aqui](http://www.fmss.org.br/novidade/quatro-jovens-e-um-destino/)
+
+> “Nós procuramos um hackerspace porque desejávamos desenvolver projetos inusuais, experimentais – focados no processo – gerando experiências divertidas e aprendizado significativo no contexto de arte e tecnologia.
+
+> A presença de jovens em um hackerspace é desejável não só pelas possibilidades citadas acima como também pelas oportunidades de convívio e desenvolvimento de habilidades sociais. Os jovens contribuem ativamente com novas demandas – baseadas na sua realidade  – rompendo pressupostos e consequentemente renovando a dinâmica do espaço.Ao mesmo tempo têm a possibilidade de interagir com pessoas mais experientes, inclusive no mercado de trabalho, e de contato com assuntos novos e diversos.” Explicam Alexandre Villares e Monica Rizzolli.
+
+
 #### 01/04/2017 Arduino Day 2017 - Centro Cultural São Paulo
 
 ![arduino](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/17309852_1802818029732065_2636868731799576369_n.jpg?raw=true)
@@ -28,6 +41,22 @@ Centro Cultural São Paulo - Sala Adoniran Barbosa:
 [+ INFOS](http://arduinosaopaulo.cc)
 
 ### eventos passados
+<hr>
+
+#### 01/04/2017 Arduino Day 2017 - Centro Cultural São Paulo
+
+![arduino](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/17309852_1802818029732065_2636868731799576369_n.jpg?raw=true)
+
+Arduino Day é um evento mundial e a rede pública de laboratórios de fabricação digital está participando deste importante dia para comemorar os avanços tecnológicos democraticamente compartilhados e acessíveis por todos. Neste dia, além das oficinas nos 12 laboratórios da rede, há uma série de atividades que serão sediadas no Centro Cultural São Paulo.
+
+Centro Cultural São Paulo - FabLab CCSP:
+15h00 às 17h00 - Dojo Processing + Arduino, com **Alexandre Villares e Monica Rizzolli** no [Hackerspace Itinerante](https://hackerspaceitinerante.wordpress.com/).
+
+Centro Cultural São Paulo - Sala Adoniran Barbosa:
+19h15 às 20h00 - As fronteiras da tecnologia ( Juliana Harrison / **Monica Rizzolli** / Rodrigo Terra / Thiago Lima)
+
+[+ INFOS](http://arduinosaopaulo.cc)
+
 <hr>
 
 #### 28/03/2017 Noite de Processing: Processos de Ensino-aprendizagem num Espaço de Tecnologias e Artes - Fabricio Masutti
