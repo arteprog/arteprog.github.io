@@ -22,7 +22,7 @@ A terceira edição do Go Code trouxe uma novidade oferecida pelo Instituto Jama
 
 ![masutti](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/download-1.jpg?raw=true)
 
-Veja o diário de bordo desse projeto de letramento digital da Fundação Maurício Sirotsky Sobrinho [aqui].(http://www.fmss.org.br/novidade/quatro-jovens-e-um-destino/)
+Veja o diário de bordo desse projeto de letramento digital da Fundação Maurício Sirotsky Sobrinho [aqui](http://www.fmss.org.br/novidade/quatro-jovens-e-um-destino/).
 
 > “Nós procuramos um hackerspace porque desejávamos desenvolver projetos inusuais, experimentais – focados no processo – gerando experiências divertidas e aprendizado significativo no contexto de arte e tecnologia.
 
@@ -42,6 +42,8 @@ Centro Cultural São Paulo - Sala Adoniran Barbosa:
 19h15 às 20h00 - As fronteiras da tecnologia ( Juliana Harrison / **Monica Rizzolli** / Rodrigo Terra / Thiago Lima)
 
 [+ INFOS](http://arduinosaopaulo.cc)
+
+<hr>
 
 #### 01/04/2017 Arduino Day 2017 - Centro Cultural São Paulo
 
