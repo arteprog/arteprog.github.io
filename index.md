@@ -26,6 +26,13 @@ b) Programação Criativa - tem como objetivo promover a familiarização dos pa
 ### eventos passados
 <hr>
 
+#### 20/04 a 13/04/2017 Curso: Programação Criativa - SESC Santana, qui 19h30
+![pc_santana](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/sesc_santana.png?raw=true)
+
+O curso tem como objetivo promover a familiarização dos participantes com a arte computacional por meio de aulas práticas, utilizando Processing, linguagem de programação em código aberto amplamente utilizada por artistas, assim como estimular a reflexão a partir da análise de obras e leituras sobre o assunto.
+
+[+ INFOS](https://www.sescsp.org.br/programacao/117413_PROGRAMACAO+CRIATIVA)
+
 #### Go Code na Noite de Processing.
 
 A terceira edição do Go Code trouxe uma novidade oferecida pelo Instituto Jama: Quatro alunos do curso seriam levados para uma viagem de imersão em tecnologia em São Paulo. A primeira parada do grupo foi no Garoa Hacker Clube, na Noite de Processing com Fabricio Masutti!
