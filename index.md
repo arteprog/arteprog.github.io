@@ -13,6 +13,27 @@
 ### próximos eventos
 <hr>
 
+#### Curso: Programação de computadores para todas as idades - Módulo II: Cores e Números - SESC Itaquera, dom 14h
+
+![itq2](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/Screen%20Shot%202017-04-28%20at%207.44.36%20PM.png?raw=true)
+
+[+ INFOS](https://www.sescsp.org.br/programacao/121446_PROGRAMACAO+DE+COMPUTADORES+PARA+TODAS+AS+IDADES+MODULO+II+CORES+E+NUMEROS)
+
+### eventos passados
+<hr>
+
+#### 25/04/2017 A perspectiva da imagem analógica e digital - Coletivo RE(C)organize[editar]
+
+![ndp15](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/ndp_15low.png?raw=true)
+
+A perspectiva da imagem analógica e digital: Neste workshop, os integrantes do Coletivo RE(C)organize, Fernanda Duarte e Rodrigo Rezende, falam sobre a evolução e as aplicações da perspectiva. A partir do estudo de exemplos provenientes da imagem analógica, enfocando principalmente a pintura e o audiovisual, os palestrantes irão identificar e demonstrar a presença do recurso perspectivo em várias vertentes da imagem digital.
+
+Coletivo RE(C)organize - é um coletivo artístico formado entre as cidades de São Carlos e São Paulo em 2009. Opera na criação de soluções visuais e interativas através do video mapping e da interatividade. Entre suas obras mais destacadas estão a performance audiovisual U(IN)versus (2016), as quatro edições do festival “Rock na Estação” (São Carlos – SP), o Festival “Fora da Casinha” (São Paulo – SP), as instalações interativas “La Maquina de Efectos Visuales” (2016), "Nego Negro" (2013), "Kinectscopes" (2014), “A Fantástica Máquina dos Milagres” (com parceria entre Diego Corazza y Nicolau Centola) e o videoclipe “Traveling Man” (2014), para música da cantora Stela Campos. Também realizaram projeções para concertos de cantores e grupos musicais como Stela Campos, Trio Eterno e Zeca Viana.
+
+[+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing#25.2F04.2F2017_A_perspectiva_da_imagem_anal.C3.B3gica_e_digital_-_Coletivo_RE.28C.29organize)
+
+<hr>
+
 #### Curso: Programação de computadores - Jogos e padrões - SESC Itaquera, dom 14h
 
 ![itaquera](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/Screen%20Shot%202017-04-03%20at%208.01.08%20PM.png?raw=true)
@@ -23,7 +44,6 @@ b) Programação Criativa - tem como objetivo promover a familiarização dos pa
 
 [+ INFOS](https://www.sescsp.org.br/programacao/117781_PROGRAMACAO+DE+COMPUTADORES+JOGOS+E+PADROES)
 
-### eventos passados
 <hr>
 
 #### 20/04 a 13/07/2017 Curso: Programação Criativa - SESC Santana, qui 19h30
@@ -32,6 +52,8 @@ b) Programação Criativa - tem como objetivo promover a familiarização dos pa
 O curso tem como objetivo promover a familiarização dos participantes com a arte computacional por meio de aulas práticas, utilizando Processing, linguagem de programação em código aberto amplamente utilizada por artistas, assim como estimular a reflexão a partir da análise de obras e leituras sobre o assunto.
 
 [+ INFOS](https://www.sescsp.org.br/aulas/118836_PROCESSING+CURSO+DE+PROGRAMACAO+CRIATIVA)
+
+<hr>
 
 #### Go Code na Noite de Processing.
 
