@@ -1,4 +1,4 @@
-# Arte digital e programação criativa
+# arte digital e programação criativa
 <hr>
 
 Este curso tem como objetivo promover o contato dos participantes com a arte computacional por meio de aulas práticas usando Processing, plataforma de programação de código aberto amplamente utilizada por artistas. Também é estimulada a reflexão a partir da análise de obras e leituras sobre o assunto. 30h ou 36h
