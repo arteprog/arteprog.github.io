@@ -1,8 +1,7 @@
-# Curso Programação Criativa
+# Programação Criativa, SESC Santana, São Paulo, de 20/04/17 a 13/07/17
+<hr>
 
-# SESC Santana, São Paulo, de 20/04/17 a 13/07/17
-
-## Participantes:
+### Participantes:
 
 #### Lilia Chou
 
