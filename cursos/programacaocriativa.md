@@ -19,7 +19,7 @@ Este curso tem como objetivo promover o contato dos participantes com a arte com
 
 **Cronologia do curso:**
 
-Programação Criativa - SESC Santana, São Paulo, de 20/04/17 a 13/07/17
+[Programação Criativa](/cursos/sesc-santana) - SESC Santana, São Paulo, de 20/04/17 a 13/07/17
 
 [Programação Criativa](https://www.sescsp.org.br/programacao/117413_PROGRAMACAO+CRIATIVA) - SESC São José dos Campos, São José dos Campos, de 22/03/17 a 13/04/17
 
