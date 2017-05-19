@@ -3,6 +3,6 @@
 
 ### Participantes:
 
-#### [Lilia Chou](arteprog.github.io/cursos/santana/participantes/lilia)
+#### [Lilia Chou](/cursos/santana/participantes/lilia)
 
 
