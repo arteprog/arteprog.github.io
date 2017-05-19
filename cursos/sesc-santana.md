@@ -5,4 +5,6 @@
 
 #### [Lilia Chou](/cursos/santana/participantes/lilia)
 
+<script src="../footer.js"></script>
+
 
