@@ -3,6 +3,6 @@
 
 ### Participantes:
 
-#### [Lilia Chou](cursos/santana/participantes/lilia)
+#### [Lilia Chou](cursos/cursos/santana/participantes/lilia)
 
 
