@@ -5,6 +5,8 @@
 
 #### [Lilia Chou](/cursos/santana/participantes/lilia)
 
+#### [Rodrigo Bruno](/cursos/santana/participantes/rodrigobruno)
+
 <script src="../footer.js"></script>
 
 
