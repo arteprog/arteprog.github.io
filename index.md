@@ -13,6 +13,13 @@
 ### próximos eventos
 <hr>
 
+#### Curso: Programação de computadores para todas as idades - Módulo III: Redes e Cidades - SESC Itaquera, dom 14h
+
+![itaquera](arteprog.github.io/assets/images/itaquera.png)
+
+### eventos passados
+<hr>
+
 #### 30/05/2017 Mapas, Grafos e Geometria Computacional: usando Processing para visualizar a matemática - Fábio Hirano
 
 ![ndp16](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/600px-Ndp-16.png?raw=true)
@@ -29,7 +36,6 @@ Fábio Hirano tem formação em Licenciatura em Matemática e Ciência da Comput
 
 [+ INFOS](https://www.sescsp.org.br/programacao/121446_PROGRAMACAO+DE+COMPUTADORES+PARA+TODAS+AS+IDADES+MODULO+II+CORES+E+NUMEROS)
 
-### eventos passados
 <hr>
 
 #### 25/04/2017 A perspectiva da imagem analógica e digital - Coletivo RE(C)organize[editar]
