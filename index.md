@@ -13,6 +13,25 @@
 ### próximos eventos
 <hr>
 
+#### 27/06/2017 Threads, programação paralela e múltiplos projetores - Airton Gaidys
+
+![ndp17](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/convite17_600px.jpg?raw=true)
+
+[19h30] Threads, programação paralela e múltiplos projetores: veremos como controlar vários projetores com um ou mais Sketchs compartilhando as informações entre si.
+
+Veremos 3 formas diferentes de programação:
+
+- Como controlar vários Sketchs dentro de um Processo.
+
+- Como colocar o Processing dentro do NetBeans ou Eclipse e ter vários Sketchs simultâneos .
+
+- Processos independentes trabalhando paralelamente e compartilhando informações.
+
+Airton Gaidys entusiasta por Processing, com várias aulas sobre controle e supervisão postados no Youtube.
+
+[+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing#27.2F06.2F2017_Threads.2C_programa.C3.A7.C3.A3o_paralela_e_m.C3.BAltiplos_projetores_-_Airton_Gaidys)
+<hr>
+
 #### Curso: Programação de computadores para todas as idades - Módulo III: Redes e Cidades - SESC Itaquera, dom 14h
 
 ![itaquera](arteprog.github.io/assets/images/itaquera.png)
