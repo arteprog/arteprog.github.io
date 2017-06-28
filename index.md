@@ -13,6 +13,21 @@
 ### próximos eventos
 <hr>
 
+#### 05/07/2017 Esquina + Amarello: Uma conversa sobre arte e cidade
+
+![esquina](https://raw.githubusercontent.com/arteprog/arteprog.github.io/4e1135ad3b10b4d1aa196e1e6e096fc197f91b04/assets/images/esquina.png)
+
+Uma conversa sobre arte e cidade com Monica Rizzolli, Daniel Caballero, Laura Gorski e mediação de Alexandre Villares
+A revista Amarello e o Esquina: Encontros sobre cidades convidaram Monica Rizzolli, Daniel Caballero e Laura Gorski para conversar sobre a relação das suas obras com a cidade. A mediação da conversa será de Alexandre Villares, editor convidado da Amarello número 27, lançada em julho/17 -- com capa da Monica e portifólio do Daniel e da Laura.
+
+O ESQUINA é uma série de encontros sobre cidades e passeios por São Paulo. O ESQUINA tem curadoria de Eduardo Andrade de Carvalho, sócio da Moby Incorporadora e editor de Cidades da revista Amarello, e Mariana Barros, jornalista e autoria do blog Cidades sem Fronteiras, da editora Abril.
+O AMARELLO é um coletivo que acredita no poder e na capacidade de transformação individual do ser humano. Um coletivo criativo, uma ferramenta que provoca reflexão através das artes, da beleza, do design, da filosofia e da arquitetura. Um instrumento também a serviço do debate, do Brasil, do contraditório, do dissenso – para que, assim, as pessoas enriqueçam suas próprias realidades.
+
+[+ INFOS](https://www.eventbrite.com.br/e/esquina-amarello-uma-conversa-sobre-arte-e-cidade-tickets-35725118792)
+
+### eventos passados
+<hr>
+
 #### 27/06/2017 Threads, programação paralela e múltiplos projetores - Airton Gaidys
 
 ![ndp17](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/convite17_600px.jpg?raw=true)
@@ -36,7 +51,6 @@ Airton Gaidys entusiasta por Processing, com várias aulas sobre controle e supe
 
 ![itaquera](arteprog.github.io/assets/images/itaquera.png)
 
-### eventos passados
 <hr>
 
 #### 30/05/2017 Mapas, Grafos e Geometria Computacional: usando Processing para visualizar a matemática - Fábio Hirano
