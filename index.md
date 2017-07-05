@@ -28,6 +28,13 @@ O AMARELLO é um coletivo que acredita no poder e na capacidade de transformaç�
 ### eventos passados
 <hr>
 
+#### 30/06/2017 Festa de lançamento da revista Amarello 27 e showcase Monica Rizzolli
+
+![amarello](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/convite.jpeg?raw=true)
+
+Alexandre Villares é editor convidado da revista Amarello #27, PERSPECTIVAS, com capa de Monica Rizzolli.
+<hr>
+
 #### 27/06/2017 Threads, programação paralela e múltiplos projetores - Airton Gaidys
 
 ![ndp17](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/convite17_600px.jpg?raw=true)
