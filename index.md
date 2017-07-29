@@ -22,6 +22,8 @@
 
 [+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing#25.2F07.2F2017_O_espa.C3.A7o_definidor_do_videogame_-_Leandro_Velloso)
 
+<hr>
+
 #### 05/07/2017 Esquina + Amarello: Uma conversa sobre arte e cidade
 
 ![esquina](https://raw.githubusercontent.com/arteprog/arteprog.github.io/4e1135ad3b10b4d1aa196e1e6e096fc197f91b04/assets/images/esquina.png)
