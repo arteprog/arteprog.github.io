@@ -13,6 +13,16 @@
 ### próximos eventos
 <hr>
 
+### eventos passados
+<hr>
+
+<hr>
+#### 25/07/2017 O espaço definidor do videogame - Leandro Velloso
+
+[19h30] Apresentação de parte dos resultados obtidos em sua pesquisa de doutorado concluída em abril deste ano. O conceito de Círculo Mágico será abordado enquanto manifestação espacial e definidora do videogame, tanto em seus aspectos físicos como narrativos e interativos. O pesquisador trará exemplos clássicos e inusitados, que mostram como a história do videogame é um reflexo da nossa percepção de espacialidade no mundo contemporâneo.
+
+[+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing#25.2F07.2F2017_O_espa.C3.A7o_definidor_do_videogame_-_Leandro_Velloso)
+
 #### 05/07/2017 Esquina + Amarello: Uma conversa sobre arte e cidade
 
 ![esquina](https://raw.githubusercontent.com/arteprog/arteprog.github.io/4e1135ad3b10b4d1aa196e1e6e096fc197f91b04/assets/images/esquina.png)
@@ -25,7 +35,6 @@ O AMARELLO é um coletivo que acredita no poder e na capacidade de transformaç�
 
 [+ INFOS](https://www.eventbrite.com.br/e/esquina-amarello-uma-conversa-sobre-arte-e-cidade-tickets-35725118792)
 
-### eventos passados
 <hr>
 
 #### 30/06/2017 Festa de lançamento da revista Amarello 27 e showcase Monica Rizzolli
