@@ -19,7 +19,7 @@
 #### 25/07/2017 O espaço definidor do videogame - Leandro Velloso
 
 
-![ndp18](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/convite18_600px.jpg?raw=true)
+![ndp18](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/Convite18_600px.jpg?raw=true)
 
 [19h30] Apresentação de parte dos resultados obtidos em sua pesquisa de doutorado concluída em abril deste ano. O conceito de Círculo Mágico será abordado enquanto manifestação espacial e definidora do videogame, tanto em seus aspectos físicos como narrativos e interativos. O pesquisador trará exemplos clássicos e inusitados, que mostram como a história do videogame é um reflexo da nossa percepção de espacialidade no mundo contemporâneo.
 
