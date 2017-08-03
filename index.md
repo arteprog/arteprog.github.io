@@ -13,6 +13,14 @@
 ### próximos eventos
 <hr>
 
+![belenzinho](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/programaco_criativa_belenzinho.png?raw=true)
+
+<hr>
+
+![encontros 24 de maio](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/encontros_24_de_maio.png?raw=true)
+
+<hr>
+
 ### eventos passados
 <hr>
 
