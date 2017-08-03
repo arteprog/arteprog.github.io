@@ -11,21 +11,27 @@
 
 
 ### próximos eventos
+
 <hr>
+
 #### 23/08 a 06/09/2017 Curso Programação Criativa
 
 ![belenzinho](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/programaco_criativa_belenzinho.png?raw=true)
 [+ INFOS](https://www.sescsp.org.br/aulas/128539_PROGRAMACAO+CRIATIVA)
 
 <hr>
+
 #### 25/08, 30/08 e 01/09/2017 Encontros de arte e programação: Introdução ao Processing
 
 ![encontros 24 de maio](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/encontros_24_de_maio.png?raw=true)
 [+ INFOS](https://www.sescsp.org.br/aulas/129891_ENCONTROS+DE+ARTE+E+PROGRAMACAO+INTRODUCAO+AO+PROCESSING)
 
 <hr>
+
 ### eventos passados
+
 <hr>
+
 #### 25/07/2017 O espaço definidor do videogame - Leandro Velloso
 
 ![ndp18](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/Convite18_600px.jpg?raw=true)
