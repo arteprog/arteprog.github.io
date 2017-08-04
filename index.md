@@ -14,16 +14,38 @@
 
 <hr>
 
-#### 23/08 a 06/09/2017 Curso Programação Criativa
+#### 13/08 a 06/12/2017 Curso Programação Criativa no SESC Pompéia (12 encontros - 14:30 às 17:30)
 
-![belenzinho](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/programaco_criativa_belenzinho.png?raw=true)
+![SESC Pompéia](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/sesc_pompeia.png?raw=true)
+
+O curso visa promover a familiarização dos participantes com a arte computacional por meio de aulas práticas, usando Processing, linguagem de programação em código aberto amplamente utilizada por artistas, assim como estimular a reflexão a partir da análise de obras e leituras sobre o assunto.
+
+Objetivos do curso:
+- Estudar conceitos fundamentais dos algoritmos e das linguagens de programação;
+- Utilizar o Processing como ferramenta para a produção artística;
+- Estimular o uso da programação de forma expressiva, exploratória e poética;
+- Estimular a produção artística com exercícios de criação mão na massa e projetos pessoais;
+- Estudar conceitos da arte e programação, através da história da arte e análise de obras.
+
+Datas para inscrições, presenciais, no SESC Pompéia:
+* Inscrições para quem tem credencial plena do SESC: 20/08, domingo, das 11h às 17h
+* Inscrições para o público geral  25/08, sexta-feira, das 11h às 14h e das 19h às 21h
+* Vagas remanescentes: 26/08, sábado, das 11h às 17h
+
+[+ INFOS](http://oficinas.sescsp.org.br/curso/programacao-criativa)
+
+<hr>
+
+#### 23/08 a 06/09/2017 Programação Criativa no SESC Belenzinho (5 encontros)
+
+![SESC Belenzinho](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/programaco_criativa_belenzinho.png?raw=true)
 [+ INFOS](https://www.sescsp.org.br/aulas/128539_PROGRAMACAO+CRIATIVA)
 
 <hr>
 
 #### 25/08, 30/08 e 01/09/2017 Encontros de arte e programação: Introdução ao Processing
 
-![encontros 24 de maio](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/encontros_24_de_maio.png?raw=true)
+![encontros SESC 24 de maio](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/encontros_24_de_maio.png?raw=true)
 [+ INFOS](https://www.sescsp.org.br/aulas/129891_ENCONTROS+DE+ARTE+E+PROGRAMACAO+INTRODUCAO+AO+PROCESSING)
 
 <hr>
