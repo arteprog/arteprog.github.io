@@ -1,4 +1,4 @@
-<p class="h0"><strong>arteprog</strong> arte e programação</p>
+<p class="h1"><strong>arteprog</strong> arte e programação</p>
 <hr>
 
 [projetos](/projetos/)<br>
