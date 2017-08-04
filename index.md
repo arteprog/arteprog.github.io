@@ -48,7 +48,6 @@ Datas para inscrições, presenciais, no SESC Pompéia:
 ![encontros SESC 24 de maio](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/encontros_24_de_maio.png?raw=true)
 [+ INFOS](https://www.sescsp.org.br/aulas/129891_ENCONTROS+DE+ARTE+E+PROGRAMACAO+INTRODUCAO+AO+PROCESSING)
 
-<hr>
 
 ### eventos passados
 
