@@ -84,7 +84,9 @@ small {
   position: relative;
 }
 
-h1,
+h1 { font-size: 0;
+}
+
 h2,
 h3,
 h4,
