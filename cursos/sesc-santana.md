@@ -3,9 +3,13 @@
 
 ### Participantes:
 
-#### [Lilia Chou](/cursos/santana/participantes/lilia)
+#### Arthur Medeiros Pescuma
 
-#### [Rodrigo Bruno](/cursos/santana/participantes/rodrigobruno)
+#### Lilia Chou
+
+#### Rodrigo Bruno
+
+[Processing de aprendizado](http://rodrigobruno.com/processing/)
 
 <script src="../footer.js"></script>
 
