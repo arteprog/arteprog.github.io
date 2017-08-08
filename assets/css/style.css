@@ -86,8 +86,7 @@ small {
 
 h1 {
     text-indent: -9999px;                 /* sends the text off-screen */
-
-    height: 100px;                        /* be sure to set height & width */
+    height: 1px;                        /* be sure to set height & width */
     width: 600px;
 }
 h2,
