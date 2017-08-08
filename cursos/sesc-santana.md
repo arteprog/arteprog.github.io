@@ -11,6 +11,9 @@
 
 [Processing de aprendizado](http://rodrigobruno.com/processing/)
 
+#### Juliana Harrison Henno
+
+
 <script src="../footer.js"></script>
 
 
