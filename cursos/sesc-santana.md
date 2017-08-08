@@ -3,15 +3,15 @@
 
 ### Participantes:
 
-#### Arthur Medeiros Pescuma
+### Arthur Medeiros Pescuma
 
-#### Lilia Chou
+### Lilia Chou
 
-#### Rodrigo Bruno
+### Rodrigo Bruno
 
 [Processing de aprendizado](http://rodrigobruno.com/processing/)
 
-#### Juliana Harrison Henno
+### Juliana Harrison Henno
 ![ju](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/henno.jpg?raw=true)
 
 Juliana apresentando o código Sensor ultrassônico:
@@ -19,7 +19,6 @@ Juliana apresentando o código Sensor ultrassônico:
 ```java
 import processing.serial.*;
 Serial myPort;        // The serial port
-
 int xPos = 1;         //We declare a variable of integers, horizontal position of the graph
 float inByte = 0;    //We declare a variable with decimal numbers
 
@@ -40,13 +39,10 @@ void draw () {
   } else {
     xPos++;    // increment the horizontal position:
   }
-
-  
 }
 
 void serialEvent (Serial myPort) {
   String inString = myPort.readStringUntil('\n');   // get the ASCII string:
-
   if (inString != null) {
     inString = trim(inString);     // trim off any whitespace:
     inByte = float(inString);    // convert to an int and map to the screen height:
