@@ -39,6 +39,7 @@ Datas para inscrições, presenciais, no SESC Pompéia:
 #### 23/08 a 06/09/2017 Programação Criativa no SESC Belenzinho (5 encontros)
 
 ![SESC Belenzinho](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/programaco_criativa_belenzinho.png?raw=true)
+
 [+ INFOS](https://www.sescsp.org.br/aulas/128539_PROGRAMACAO+CRIATIVA)
 
 <hr>
@@ -46,8 +47,12 @@ Datas para inscrições, presenciais, no SESC Pompéia:
 #### 25/08, 30/08 e 01/09/2017 Encontros de arte e programação: Introdução ao Processing
 
 ![encontros SESC 24 de maio](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/encontros_24_de_maio.png?raw=true)
+
 [+ INFOS](https://www.sescsp.org.br/aulas/129891_ENCONTROS+DE+ARTE+E+PROGRAMACAO+INTRODUCAO+AO+PROCESSING)
 
+#### 19 e 20/08 Inauguraço do SESC 24 de Maio 
+
+Em conjunto com o grupo [Estúdio Hacker](), Monica Rizzolli apesentará um robô desenhista e Alexandre Villares uma ferramenta de desenho como potenciômetros.
 
 ### eventos passados
 
@@ -56,6 +61,8 @@ Datas para inscrições, presenciais, no SESC Pompéia:
 #### 03, 10 e 17/08/2017 Programação com P5*JS no IED-SP
 
 Atividade realizada por Alexandre Villares em disciplina do curso de pós-graduação em Design de Interação do Istituto Europeo di Design (IED-SP).
+
+<hr>
 
 #### 25/07/2017 O espaço definidor do videogame - Leandro Velloso
 
