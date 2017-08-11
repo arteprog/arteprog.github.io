@@ -14,7 +14,7 @@
 
 <hr>
 
-#### 13/08 a 06/12/2017 Curso Programação Criativa no SESC Pompéia (12 encontros - 14:30 às 17:30)
+#### 13/09 a 06/12/2017 Curso Programação Criativa no SESC Pompéia (12 encontros - 14:30 às 17:30)
 
 ![SESC Pompéia](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/sesc_pompeia.png?raw=true)
 
