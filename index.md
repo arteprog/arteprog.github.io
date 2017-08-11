@@ -53,6 +53,10 @@ Datas para inscrições, presenciais, no SESC Pompéia:
 
 <hr>
 
+#### 03, 10 e 17/08/2017 Programação com P5*JS no IED-SP
+
+Atividade realizada por Alexandre Villares em disciplina do curso de pós-graduação em Design de Interação do Istituto Europeo di Design (IED-SP).
+
 #### 25/07/2017 O espaço definidor do videogame - Leandro Velloso
 
 ![ndp18](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/Convite18_600px.jpg?raw=true)
