@@ -7,6 +7,16 @@
 
 ### Lilia Chou
 
+### Linda Chou
+
+### Tiago Pessoa
+
+### Vinícius Juliane Pereira
+
+### Fernanda Fernandes
+
+### Mary Morita
+
 ### Rodrigo Bruno
 
 [Processing de aprendizado](http://rodrigobruno.com/processing/)
