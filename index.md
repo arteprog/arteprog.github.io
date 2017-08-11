@@ -50,6 +50,8 @@ Datas para inscrições, presenciais, no SESC Pompéia:
 
 [+ INFOS](https://www.sescsp.org.br/aulas/129891_ENCONTROS+DE+ARTE+E+PROGRAMACAO+INTRODUCAO+AO+PROCESSING)
 
+<hr>
+
 #### 19 e 20/08 Inauguraço do SESC 24 de Maio 
 
 Em conjunto com o grupo [Estúdio Hacker](), Monica Rizzolli apesentará um robô desenhista e Alexandre Villares uma ferramenta de desenho como potenciômetros.
