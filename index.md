@@ -14,7 +14,7 @@
 
 <hr>
 
-#### 13/09 a 06/12/2017 Curso Programação Criativa no SESC Pompéia (12 encontros - 14:30 às 17:30)
+#### 13/09 a 06/12/2017 Programação Criativa no SESC Pompéia (12 encontros, quartas 14h30)
 
 ![SESC Pompéia](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/sesc_pompeia.png?raw=true)
 
@@ -36,7 +36,7 @@ Datas para inscrições, presenciais, no SESC Pompéia:
 
 <hr>
 
-#### 23/08 a 06/09/2017 Programação Criativa no SESC Belenzinho (5 encontros)
+#### 23/08 a 06/09/2017 Programação Criativa no SESC Belenzinho (5 encontros, quartas e sextas )
 
 ![SESC Belenzinho](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/programaco_criativa_belenzinho.png?raw=true)
 
@@ -44,7 +44,7 @@ Datas para inscrições, presenciais, no SESC Pompéia:
 
 <hr>
 
-#### 25/08, 30/08 e 01/09/2017 Encontros de arte e programação: Introdução ao Processing
+#### 25/08, 30/08 e 01/09/2017 Introdução ao Processing no SESC 24 de maio (3 encontros, quartas e sextas)
 
 ![encontros SESC 24 de maio](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/encontros_24_de_maio.png?raw=true)
 
@@ -52,15 +52,19 @@ Datas para inscrições, presenciais, no SESC Pompéia:
 
 <hr>
 
-#### 19 e 20/08 Inauguraço do SESC 24 de Maio 
+#### 19 e 20/08 Inauguração do SESC 24 de Maio 
 
-Em conjunto com o grupo [Estúdio Hacker](), Monica Rizzolli apesentará um robô desenhista e Alexandre Villares uma ferramenta de desenho como potenciômetros.
+![abertura SESC 24 de maio](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/sesc_24_de_maio.jpg?raw=true)
+
+Em conjunto com o grupo Estúdio Hacker, Monica Rizzolli apesentará um robô desenhista e Alexandre Villares uma ferramenta de desenho como potenciômetros.
 
 ### eventos passados
 
 <hr>
 
 #### 03, 10 e 17/08/2017 Programação com P5*JS no IED-SP
+
+![função olho](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/olho.jpg?raw=true)
 
 Atividade realizada por Alexandre Villares em disciplina do curso de pós-graduação em Design de Interação do Istituto Europeo di Design (IED-SP).
 
@@ -116,7 +120,7 @@ Airton Gaidys entusiasta por Processing, com várias aulas sobre controle e supe
 [+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing#27.2F06.2F2017_Threads.2C_programa.C3.A7.C3.A3o_paralela_e_m.C3.BAltiplos_projetores_-_Airton_Gaidys)
 <hr>
 
-#### Curso: Programação de computadores para todas as idades - Módulo III: Redes e Cidades - SESC Itaquera, dom 14h
+#### Programação de computadores para todas as idades - Módulo III: Redes e Cidades - SESC Itaquera, dom 14h
 
 ![itaquera](arteprog.github.io/assets/images/itaquera.png)
 
@@ -132,7 +136,7 @@ Fábio Hirano tem formação em Licenciatura em Matemática e Ciência da Comput
 
 <hr>
 
-#### Curso: Programação de computadores para todas as idades - Módulo II: Cores e Números - SESC Itaquera, dom 14h
+#### Programação de computadores para todas as idades - Módulo II: Cores e Números - SESC Itaquera, dom 14h
 
 ![itq2](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/Screen%20Shot%202017-04-28%20at%207.44.36%20PM.png?raw=true)
 
@@ -140,7 +144,7 @@ Fábio Hirano tem formação em Licenciatura em Matemática e Ciência da Comput
 
 <hr>
 
-#### 25/04/2017 A perspectiva da imagem analógica e digital - Coletivo RE(C)organize[editar]
+#### 25/04/2017 Noite de Processing: A perspectiva da imagem analógica e digital - Coletivo RE(C)organize
 
 ![ndp15](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/ndp_15low.png?raw=true)
 
@@ -152,7 +156,7 @@ Coletivo RE(C)organize - é um coletivo artístico formado entre as cidades de S
 
 <hr>
 
-#### Curso: Programação de computadores - Jogos e padrões - SESC Itaquera, dom 14h
+#### Programação de computadores - Jogos e padrões - SESC Itaquera, dom 14h
 
 ![itaquera](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/Screen%20Shot%202017-04-03%20at%208.01.08%20PM.png?raw=true)
 
@@ -164,7 +168,7 @@ b) Programação Criativa - tem como objetivo promover a familiarização dos pa
 
 <hr>
 
-#### 20/04 a 13/07/2017 Curso: Programação Criativa - SESC Santana, qui 19h30
+#### 20/04 a 13/07/2017 Programação Criativa no SESC Santana (12 encontros, quintas 19h30)
 ![pc_santana](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/sesc_santana.png?raw=true)
 
 O curso tem como objetivo promover a familiarização dos participantes com a arte computacional por meio de aulas práticas, utilizando Processing, linguagem de programação em código aberto amplamente utilizada por artistas, assim como estimular a reflexão a partir da análise de obras e leituras sobre o assunto.
@@ -222,8 +226,7 @@ Geek's Beer - Rua Oscar Freire, 2292 - São Paulo, SP.
 
 <hr>
 
-#### 22/03 a 13/04/2017 Curso: Programação Criativa - SESC São José dos Campos, qua/qui 19h
-
+#### 22/03 a 13/04/2017 Programação Criativa no SESC São José dos Campos (8 encontros, quartas e quintas 19h)
 ![pc_sjc](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/pc_sjc.jpg?raw=true)
 
 O curso tem como objetivo promover a familiarização dos participantes com a arte computacional por meio de aulas práticas, utilizando Processing, linguagem de programação em código aberto amplamente utilizada por artistas, assim como estimular a reflexão a partir da análise de obras e leituras sobre o assunto.
