@@ -1,4 +1,4 @@
-# cursos
+## cursos
 <hr>
 
 ### [Arte digital e programação criativa](programacaocriativa.md)
