@@ -14,12 +14,7 @@ html {
   font-family: "Open Sans", sans-serif;
   font-size: calc(16px + 0.25vw);
   line-height: 1.4;
-  -webkit-font-kerning: normal;
-          font-kerning: normal;
-  text-rendering: optimizeLegibility;
-  -webkit-font-feature-settings: "kern", "liga" 1, "calt" 0;
-          font-feature-settings: "kern", "liga" 1, "calt" 0;
-  -ms-text-size-adjust: 100%;
+   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
 
@@ -70,6 +65,13 @@ table,
 pre {
   margin-top: 0;
   margin-bottom: 1em;
+     text-rendering: optimizeLegibility;
+   font-feature-settings: "kern", "liga" 1, "calt" 0;
+  -webkit-font-feature-settings: "kern", "liga" 1, "calt" 0;
+  -moz-font-feature-settings: "kern";
+  -moz-font-feature-settings: "kern=1";
+
+
 }
 
 small {
