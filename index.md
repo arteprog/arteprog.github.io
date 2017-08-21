@@ -48,7 +48,17 @@ Datas para inscrições, presenciais, no SESC Pompéia:
 
 ![encontros SESC 24 de maio](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/encontros_24_de_maio.png?raw=true)
 
-[+ INFOS](https://www.sescsp.org.br/aulas/129891_ENCONTROS+DE+ARTE+E+PROGRAMACAO+INTRODUCAO+AO+PROCESSING)
+[+ INFOS](https://www.sescsp.org.br/aulas/130660_INTRODUCAO+AO+PROCESSING+ARTE+E+PROGRAMACAO)
+
+<hr>
+
+#### 29/08/2017 Noite de Processing: Hands-on: algoritmo genético interativo - Julio Trevisan
+
+[20h00] Hands-on: algoritmo genético interativo: Neste encontro, será apresentada uma breve introdução a algoritmos genéticos, seguida de um exercício no qual implementaremos os operadores genéticos mutação e crossover, e uma função para desenhar os indivíduos na tela. Ao rodar, o programa permitirá ao usuário selecionar os indivíduos de que "gostou mais", e a partir desses, gerar novos indivíduos. Poderá também gerar indivíduos mutantes ou aleatórios.
+
+Julio Trevisan é Engenheiro Eletricista formado pela UFSC (2006), e PhD em Bioinformática pela Universidade de Lancaster (2013). Atualmente atua como programador no Instituto de Astronomia, Meteorologia e Ciências Atmosférias da USP, onde desenvolve uma API e suite de aplicativos em Python aplicada a problemas selecionados em Astronomia.
+
+### eventos passados
 
 <hr>
 
@@ -57,8 +67,6 @@ Datas para inscrições, presenciais, no SESC Pompéia:
 ![abertura SESC 24 de maio](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/sesc_24_de_maio.jpg?raw=true)
 
 Em conjunto com o grupo Estúdio Hacker, Monica Rizzolli apesentará um robô desenhista e Alexandre Villares uma ferramenta de desenho como potenciômetros.
-
-### eventos passados
 
 <hr>
 
@@ -70,7 +78,7 @@ Atividade realizada por Alexandre Villares em disciplina do curso de pós-gradua
 
 <hr>
 
-#### 25/07/2017 O espaço definidor do videogame - Leandro Velloso
+#### 25/07/2017 Noite de Processing: O espaço definidor do videogame - Leandro Velloso
 
 ![ndp18](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/Convite18_600px.jpg?raw=true)
 
