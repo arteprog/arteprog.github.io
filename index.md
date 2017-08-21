@@ -54,9 +54,15 @@ Datas para inscrições, presenciais, no SESC Pompéia:
 
 #### 29/08/2017 Noite de Processing: Hands-on: algoritmo genético interativo - Julio Trevisan
 
+![NdP19](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/Arquivo_Ndp19_600px.png?raw=true)
+
 [20h00] Hands-on: algoritmo genético interativo: Neste encontro, será apresentada uma breve introdução a algoritmos genéticos, seguida de um exercício no qual implementaremos os operadores genéticos mutação e crossover, e uma função para desenhar os indivíduos na tela. Ao rodar, o programa permitirá ao usuário selecionar os indivíduos de que "gostou mais", e a partir desses, gerar novos indivíduos. Poderá também gerar indivíduos mutantes ou aleatórios.
 
 Julio Trevisan é Engenheiro Eletricista formado pela UFSC (2006), e PhD em Bioinformática pela Universidade de Lancaster (2013). Atualmente atua como programador no Instituto de Astronomia, Meteorologia e Ciências Atmosférias da USP, onde desenvolve uma API e suite de aplicativos em Python aplicada a problemas selecionados em Astronomia.
+
+[+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing#29.2F08.2F2017_Hands-on:_algoritmo_gen.C3.A9tico_interativo_-_Julio_Trevisan)
+
+
 
 ### eventos passados
 
