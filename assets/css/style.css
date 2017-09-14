@@ -87,8 +87,7 @@ small {
 }
 h1 {
   font-weight:normal;
-  color: black !important;
-  a {  color: black !important; }
+  a:link {  color: black !important; }
 } 
 
 
