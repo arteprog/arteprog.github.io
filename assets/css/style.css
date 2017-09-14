@@ -85,13 +85,11 @@ small {
   margin-bottom: 0.5rem;
   position: relative;
 }
+h1 {
+  font-weight:normal;
+  a {  color:#000000 !important; }
+  } 
 
-/*h1 {
-    text-indent: -9999px;                 // sends the text off-screen 
-    height: 1px;                        // be sure to set height & width 
-    width: 600px;
-} */
-h1,
 h2,
 h3,
 h4,
