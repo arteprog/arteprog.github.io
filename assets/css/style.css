@@ -87,9 +87,7 @@ small {
 }
 h1 {
   font-weight:normal;
-  a {  color:#000000 !important; }
- color:#000000 !important;  
-
+  a {  color: black !important; }
 } 
 
 
