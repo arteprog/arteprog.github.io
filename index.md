@@ -14,6 +14,20 @@
 
 <hr>
 
+#### 26/09/2017 Noite de Processing: Fractais IFS e o Jogo do Caos - Tatiana Zabanova
+
+![ndp19](https://garoa.net.br/w/images/thumb/Ndp_tatasz_800px.png/500px-Ndp_tatasz_800px.png)
+
+ [20h00] Fractais IFS e o Jogo do Caos: Sistemas de Funções Iteradas (mais conhecidos como IFS, em inglês) são um método de construção de fractais, introduzido em 1981, que consiste em aplicar iterativamente uma série de transformações ou funções, normalmente com redução de escala. Fractais IFS em duas ou três dimensões são bastante usados em produção artística, apesar de serem menos conhecidos do que os fractais de Distância Estimada. O objetivo da atividade é mostrar como são gerados os fractais IFS, com foco na técnica conhecida como Jogo do Caos.
+ 
+ Tatyana Zabanova é estatística e programadora, mas, principalmente, entusiasta por fractais. https://tatasz.deviantart.com/
+
+[+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing#26.2F9.2F2017_Fractais_IFS_e_o_Jogo_do_Caos_-_Tatyana_Zabanova)
+
+### eventos passados
+
+<hr>
+
 #### 13/09 a 06/12/2017 Programação Criativa no SESC Pompéia (12 encontros, quartas 14h30)
 
 ![SESC Pompéia](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/sesc_pompeia.png?raw=true)
@@ -62,10 +76,6 @@ Julio Trevisan é Engenheiro Eletricista formado pela UFSC (2006), e PhD em Bioi
 
 [+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing#29.2F08.2F2017_Hands-on:_algoritmo_gen.C3.A9tico_interativo_-_Julio_Trevisan)
 
-
-
-### eventos passados
-
 <hr>
 
 #### 19 e 20/08 Inauguração do SESC 24 de Maio 
@@ -112,7 +122,7 @@ O AMARELLO é um coletivo que acredita no poder e na capacidade de transformaç�
 
 ![amarello](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/convite.jpeg?raw=true)
 
-Alexandre Villares é editor convidado da revista Amarello #27, PERSPECTIVAS, com capa de Monica Rizzolli.
+Alexandre Villares é editor convidado da revista Amarello 27, PERSPECTIVAS, com capa de Monica Rizzolli.
 <hr>
 
 #### 27/06/2017 Threads, programação paralela e múltiplos projetores - Airton Gaidys
