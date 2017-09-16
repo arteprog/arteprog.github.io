@@ -14,7 +14,7 @@
 
 <hr>
 
-#### 26/09/2017 Noite de Processing: Fractais IFS e o Jogo do Caos - Tatiana Zabanova
+#### 26/09/2017 Noite de Processing: Fractais IFS e o Jogo do Caos - Tatyana Zabanova
 
 ![ndp19](https://garoa.net.br/w/images/thumb/Ndp_tatasz_800px.png/500px-Ndp_tatasz_800px.png)
 
