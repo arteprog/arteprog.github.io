@@ -18,7 +18,9 @@ Processando Processing é um esforço para: traduzir para o português material 
 
 ### Revista AMARELLO 27
 
-Editor convidado: Alexandre Villares. O lançamento contou com um *showcase* da artista Monica Rizzolli, cujo portfolio aparece na edição e uma de suas obras dá origem às capas(http://www.amarello.com.br/artigo/transformacao-de-perspectiva-monica-rizzolli/).
+Editor convidado: Alexandre Villares. O lançamento contou com um *showcase* da artista Monica Rizzolli, cujo portfolio aparece na edição.
+
+>Mônica assina a capa da nossa edição Perspectiva com uma obra interativa, um código que se transforma através do contato do espectador. Sua criação reflete sobre o processo de transformação na paisagem urbana, dos rastros de tempos passados que vão se escondendo pouco a pouco até sumirem. [Transformação de Perspectiva: Mônica Rizzolli](http://www.amarello.com.br/artigo/transformacao-de-perspectiva-monica-rizzolli/)
 
 
  <script src="../footer.js"></script>
