@@ -16,7 +16,7 @@
 
 #### 26/09/2017 Noite de Processing: Fractais IFS e o Jogo do Caos - Tatyana Zabanova
 
-![ndp19](https://garoa.net.br/w/images/thumb/Ndp_tatasz_800px.png/500px-Ndp_tatasz_800px.png)
+![ndp19](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/Convite19.png?raw=true)
 
  [20h00] Fractais IFS e o Jogo do Caos: Sistemas de Funções Iteradas (mais conhecidos como IFS, em inglês) são um método de construção de fractais, introduzido em 1981, que consiste em aplicar iterativamente uma série de transformações ou funções, normalmente com redução de escala. Fractais IFS em duas ou três dimensões são bastante usados em produção artística, apesar de serem menos conhecidos do que os fractais de Distância Estimada. O objetivo da atividade é mostrar como são gerados os fractais IFS, com foco na técnica conhecida como Jogo do Caos.
  
