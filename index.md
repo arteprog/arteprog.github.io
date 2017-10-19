@@ -14,6 +14,13 @@
 
 <hr>
 
+#### 07/10 a 28/10 Encontros de Arte e Programação: Introdução ao Processing (SAB 14H ÀS 18H)
+
+
+### eventos passados
+
+<hr>
+
 #### 26/09/2017 Noite de Processing: Fractais IFS e o Jogo do Caos - Tatyana Zabanova
 
 ![ndp19](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/Convite19.png?raw=true)
@@ -23,8 +30,6 @@
  Tatyana Zabanova é estatística e programadora, mas, principalmente, entusiasta por fractais. https://tatasz.deviantart.com/
 
 [+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing#26.2F9.2F2017_Fractais_IFS_e_o_Jogo_do_Caos_-_Tatyana_Zabanova)
-
-### eventos passados
 
 <hr>
 
