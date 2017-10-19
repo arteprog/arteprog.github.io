@@ -14,6 +14,16 @@
 
 <hr>
 
+#### 31/10/2017 O artista-programador e a cultura hacker na arte feita em Processing - Patricia Oakim
+
+![ndp21](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/600px-NDP21_PO_600px.png?raw=true)
+
+[20h] O artista-programador e a cultura hacker na arte feita em Processing: Neste encontro, Patricia Oakim irá falar sobre o artista-programador, aquele que usa software e código como material artístico. Além disso, apresentará como a cultura hacker pode ser entendida no contexto da arte feita em Processing.
+
+Patricia Oakim é mestre em Tecnologias da Inteligência e Design Digital, pela PUC-SP, e é também mestre pela New York University, no curso Interactive Telecommunications Program. Ela entrou em contato com Processing pela primeira vez em 2006, quando aprendeu a escrever as primeiras linhas de código. Trabalha com gestão de tecnologia aplicada em diferentes áreas.
+
+<hr>
+
 #### 07/10 a 28/10 Encontros de Arte e Programação: Introdução ao Processing (SAB 14H ÀS 18H)
 
 ![bauru](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/processing_bauru.png?raw=true)
@@ -26,9 +36,9 @@
 
 ![ndp19](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/Convite19.png?raw=true)
 
- [20h00] Fractais IFS e o Jogo do Caos: Sistemas de Funções Iteradas (mais conhecidos como IFS, em inglês) são um método de construção de fractais, introduzido em 1981, que consiste em aplicar iterativamente uma série de transformações ou funções, normalmente com redução de escala. Fractais IFS em duas ou três dimensões são bastante usados em produção artística, apesar de serem menos conhecidos do que os fractais de Distância Estimada. O objetivo da atividade é mostrar como são gerados os fractais IFS, com foco na técnica conhecida como Jogo do Caos.
+[20h00] Fractais IFS e o Jogo do Caos: Sistemas de Funções Iteradas (mais conhecidos como IFS, em inglês) são um método de construção de fractais, introduzido em 1981, que consiste em aplicar iterativamente uma série de transformações ou funções, normalmente com redução de escala. Fractais IFS em duas ou três dimensões são bastante usados em produção artística, apesar de serem menos conhecidos do que os fractais de Distância Estimada. O objetivo da atividade é mostrar como são gerados os fractais IFS, com foco na técnica conhecida como Jogo do Caos.
  
- Tatyana Zabanova é estatística e programadora, mas, principalmente, entusiasta por fractais. https://tatasz.deviantart.com/
+Tatyana Zabanova é estatística e programadora, mas, principalmente, entusiasta por fractais. https://tatasz.deviantart.com/
 
 [+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing#26.2F9.2F2017_Fractais_IFS_e_o_Jogo_do_Caos_-_Tatyana_Zabanova)
 
