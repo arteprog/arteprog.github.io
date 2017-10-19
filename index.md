@@ -16,7 +16,7 @@
 
 #### 07/10 a 28/10 Encontros de Arte e Programação: Introdução ao Processing (SAB 14H ÀS 18H)
 
-![bauru](arteprog.github.io/assets/images/processing_bauru.png)
+![bauru](https://github.com/arteprog/arteprog.github.io/assets/images/processing_bauru.png)
 
 ### eventos passados
 
