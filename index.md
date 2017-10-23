@@ -28,7 +28,7 @@ Patricia Oakim é mestre em Tecnologias da Inteligência e Design Digital, pela 
 
 ![GRAPHICA 2017](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/GRAPHICA2017.png?raw=true)
 
-Nos dias 26, 27 e 28 de outubro de 2017 na UNIP - Câmpus Araçatuba, o GRAPHICA 2017 é um evento cujo objetivo é estimular o intercâmbio de ideias e a discussão de ensino, pesquisa, extensão e produção voltados à educação gráfica de diversos currículos com formações tais como Engenharia, Arquitetura, Design, Licenciatura em Desenho, Artes Visuais, Matemática etc.
+Nos dias 26, 27 e 28 de outubro de 2017 na UNIP (Câmpus Araçatuba) acontece o GRAPHICA 2017, evento cujo objetivo é estimular o intercâmbio de ideias e a discussão de ensino, pesquisa, extensão e produção voltados à educação gráfica de diversos currículos com formações tais como Engenharia, Arquitetura, Design, Licenciatura em Desenho, Artes Visuais, Matemática etc.
 
 Apresentação do artigo:
 
