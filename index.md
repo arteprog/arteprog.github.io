@@ -24,9 +24,23 @@ Patricia Oakim é mestre em Tecnologias da Inteligência e Design Digital, pela 
 
 <hr>
 
+#### 31/10/2017 GRAPHICA 2017: XII International Conference on Graphics Engineering for Arts and Design
+
+![GRAPHICA 2017](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/GRAPHICA2017.png?raw=true)
+
+Nos dias 26, 27 e 28 de outubro de 2017 na UNIP - Câmpus Araçatuba, o GRAPHICA 2017 é um evento cujo objetivo é estimular o intercâmbio de ideias e a discussão de ensino, pesquisa, extensão e produção voltados à educação gráfica de diversos currículos com formações tais como Engenharia, Arquitetura, Design, Licenciatura em Desenho, Artes Visuais, Matemática etc.
+
+Apresentação do artigo:
+
+> VILLARES, A. B. A.; MOREIRA, D. DE C.; GOMES, M. R. **Ensino de programação em um contexto de exploração gráfica com Processing modo Python**. GRAPHICA 2017: XII International Conference on Graphics Engineering for Arts and Design. Anais...2017
+
+[+ INFOS](https://www.facebook.com/pg/GraphicaBR/about)
+
+<hr>
+
 #### 07/10 a 28/10 Encontros de Arte e Programação: Introdução ao Processing (SAB 14H ÀS 18H)
 
-![bauru](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/processing_bauru.png?raw=true)
+![SESC Bauru](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/processing_bauru.png?raw=true)
 
 ### eventos passados
 
