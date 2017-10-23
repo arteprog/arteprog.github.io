@@ -30,7 +30,7 @@ Patricia Oakim é mestre em Tecnologias da Inteligência e Design Digital, pela 
 
 Nos dias 26, 27 e 28 de outubro de 2017 na UNIP (Câmpus Araçatuba) acontece o GRAPHICA 2017, evento cujo objetivo é estimular o intercâmbio de ideias e a discussão de ensino, pesquisa, extensão e produção voltados à educação gráfica de diversos currículos com formações tais como Engenharia, Arquitetura, Design, Licenciatura em Desenho, Artes Visuais, Matemática etc.
 
-Apresentação do artigo **Ensino de programação em um contexto de exploração gráfica com Processing modo Python** de Alexandre Villares, Daniel Moreira e Monica Rizzolli:
+Na manhã do sábado, 28/10, nas Sessões Técnicas - Sala 3, será apresentado o trabalho **Ensino de programação em um contexto de exploração gráfica com Processing modo Python** de Alexandre Villares, Daniel Moreira e Monica Rizzolli:
 
 > VILLARES, A. B. A.; MOREIRA, D. DE C.; GOMES, M. R. **Ensino de programação em um contexto de exploração gráfica com Processing modo Python**. GRAPHICA 2017: XII International Conference on Graphics Engineering for Arts and Design. Anais...2017
 
