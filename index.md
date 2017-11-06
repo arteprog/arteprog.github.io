@@ -14,6 +14,22 @@
 
 <hr>
 
+#### 07/10 a 28/10 Encontros de Arte e Programação: Introdução ao Processing (SAB 14H ÀS 18H)
+
+![SESC Bauru](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/processing_bauru.png?raw=true)
+
+### eventos passados
+
+<hr>
+
+#### 23/10/2017 Como o geoprocessamento pode nos ajudar a ocupar a cidade
+
+
+
+Colaboração com [Esquina](http://www.esquina.net.br/2017/10/23/como-o-geoprocessamento-pode-nos-ajudar-a-ocupar-a-cidade/) / Estadão.
+
+<hr>
+
 #### 31/10/2017 O artista-programador e a cultura hacker na arte feita em Processing - Patricia Oakim
 
 ![ndp21](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/600px-NDP21_PO_600px.png?raw=true)
@@ -35,14 +51,6 @@ Na manhã do sábado, 28/10, nas Sessões Técnicas - Sala 3, será apresentado 
 > VILLARES, A. B. A.; MOREIRA, D. DE C.; GOMES, M. R. **Ensino de programação em um contexto de exploração gráfica com Processing modo Python**. GRAPHICA 2017: XII International Conference on Graphics Engineering for Arts and Design. Anais...2017
 
 [+ INFOS](https://www.facebook.com/pg/GraphicaBR/about)
-
-<hr>
-
-#### 07/10 a 28/10 Encontros de Arte e Programação: Introdução ao Processing (SAB 14H ÀS 18H)
-
-![SESC Bauru](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/processing_bauru.png?raw=true)
-
-### eventos passados
 
 <hr>
 
