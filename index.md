@@ -24,7 +24,7 @@
 
 #### 23/10/2017 Como o geoprocessamento pode nos ajudar a ocupar a cidade
 
-
+![esq1](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/esquina1.png?raw=true)
 
 Colaboração com [Esquina](http://www.esquina.net.br/2017/10/23/como-o-geoprocessamento-pode-nos-ajudar-a-ocupar-a-cidade/) / Estadão.
 
