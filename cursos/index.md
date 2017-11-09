@@ -1,13 +1,19 @@
 ## cursos
 <hr>
 
-### [Arte digital e programação criativa](programacaocriativa.md)
+### [Arte computacional e programação criativa](programacaocriativa.md)
 
-Este curso tem como objetivo promover o contato dos participantes com a arte computacional por meio de aulas práticas usando Processing, plataforma de programação de código aberto amplamente utilizada por artistas. Também é estimulada a reflexão a partir da análise de obras e leituras sobre o assunto. 30h ou 36h
+Este curso tem como objetivo promover o contato dos participantes com a arte computacional/algoritmica por meio de aulas práticas usando Processing, plataforma de programação de código aberto amplamente utilizada por artistas. Também é estimulada a reflexão a partir da análise de obras e leituras sobre o assunto. 30h ou 36h
 
-### Curso de introdução ao Arduino
+### Encontros de arte e programação: Processing Intermediário
 
-Uma aproximação à programação e à eletrônica atráves de demonstrações e exercícios experimentais. Destinada a pessoas interessadas no universo do “D.I.Y” (faça você mesmo), possibilita noções introdutórias para o desenvolvimento de esculturas cinéticas, dispositivos sonoros, objetos e instalações interativas. 10h
+Apresentação de um conceito de arte digital, programação e manipulação do código de um programa em Processing com objetivos estéticos. Acompanhamento técnico e artístico de cada participante.
+1. Random ​Walkers ​e ​Perlin ​Noise;
+2. Sistemas ​de ​Partículas;
+3. Automatos ​Celulares;
+4. Algoritmos ​Genéticos.
+
+ 16h (4 encontros de 4h)
 
 ### Curso de programação para expressão gráfica
 
@@ -18,6 +24,10 @@ Introdução à programação num contexto visual, com o objetivo de criar peça
 Curso de introdução à programação num contexto visual, com o objetivo de explorar a produção de xilogravuras pela elaboração de formas através da programação utilizando a plataforma Processing. As gravuras serão impressas manualmente numa convergência entre produção artesanal e digital.
 Requer equipamentos de frabricação digital como fresa CNC e cortadora laser. 16h
 
+### Curso de introdução ao Arduino
+
+Uma aproximação à programação e à eletrônica atráves de demonstrações e exercícios experimentais. Destinada a pessoas interessadas no universo do “D.I.Y” (faça você mesmo), possibilita noções introdutórias para o desenvolvimento de esculturas cinéticas, dispositivos sonoros, objetos e instalações interativas. 10h
+
 ### Oficina Arte gerativa
 
 Introdução à arte gerativa, história e conceitos, intercalado com a exploração e criação de algoritmos gerativos e análise de obras. 4h
@@ -25,7 +35,6 @@ Introdução à arte gerativa, história e conceitos, intercalado com a explora�
 ### Introdução à interação Processing + Arduino
 
 Atividade de curta duração que permite introduzir as possibilidades de programação (na plataforma Processing) com interação pelo uso de sensores (usando a plataforma Arduino). 3h
-
 
 ### Introdução à programação com Python + Processing
 
