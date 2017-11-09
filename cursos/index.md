@@ -12,6 +12,7 @@ Apresentação de um conceito de arte digital, programação e manipulação do 
 2. Sistemas ​de ​Partículas;
 3. Automatos ​Celulares;
 4. Algoritmos ​Genéticos.
+
  16h (4 encontros de 4h)
 
 ### Curso de programação para expressão gráfica
