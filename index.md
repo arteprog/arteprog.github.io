@@ -18,9 +18,11 @@
 
 ![SIGRADI 2017](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/SIGRADI2017.png?raw=true)
 
-A Sociedade Ibero-americana de Gráfica Digital é uma organização sem fins lucrativos que reúne na sua conferência anual especialistas internacionais em arquitetura, urbanismo, design e artes visuais discutindo aplicações e possibilidades de tecnologias gráficas e sua relação com as novas mídias.
+Nos dias 22, 23 e 24 de novembro de 2017 na cidade de Concepción, Chile, o congresso anual da Sociedade Ibero-americana de Gráfica Digital reúne especialistas internacionais em arquitetura, urbanismo, design e artes visuais para discutir aplicações e possibilidades de tecnologias gráficas e suas relações com as novas mídias.
 
-No congresso deste ano será apresentado o trabalho [Python on the Landscape of Programming Tools for Design and Architectural Education](https://villares.github.io/mestrado/VILLARES_MOREIRA_SIGRADI_2017) de Alexandre Villares e Daniel Moreira.
+Na conferência deste ano será apresentado o trabalho [Python on the Landscape of Programming Tools for Design and Architectural Education](https://villares.github.io/mestrado/VILLARES_MOREIRA_SIGRADI_2017) de Alexandre Villares e Daniel Moreira.
+
+[+ INFOS](http://congreso.sigradi.org/index.php/2017/Concepcion)
 
 ### eventos passados
 
@@ -56,7 +58,7 @@ Patricia Oakim é mestre em Tecnologias da Inteligência e Design Digital, pela 
 
 Nos dias 26, 27 e 28 de outubro de 2017 na UNIP (Câmpus Araçatuba) acontece o GRAPHICA 2017, evento cujo objetivo é estimular o intercâmbio de ideias e a discussão de ensino, pesquisa, extensão e produção voltados à educação gráfica de diversos currículos com formações tais como Engenharia, Arquitetura, Design, Licenciatura em Desenho, Artes Visuais, Matemática etc.
 
-Na manhã do sábado, 28/10, nas Sessões Técnicas - Sala 3, será apresentado o trabalho [Ensino de programação em um contexto de exploração gráfica com Processing modo Python](https://villares.github.io/mestrado/VILLARES_MOREIRA_GOMES_GRAPHICA_2017) de Alexandre Villares, Daniel Moreira e Monica Rizzolli:
+Na manhã do sábado, 28/10, nas Sessões Técnicas - Sala 3, foi apresentado o trabalho [Ensino de programação em um contexto de exploração gráfica com Processing modo Python](https://villares.github.io/mestrado/VILLARES_MOREIRA_GOMES_GRAPHICA_2017) de Alexandre Villares, Daniel Moreira e Monica Rizzolli:
 
 [+ INFOS](https://www.facebook.com/pg/GraphicaBR/about)
 
