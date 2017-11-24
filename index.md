@@ -14,6 +14,21 @@
 
 <hr>
 
+#### 28/11/2017 Noite de Processing: relâmpagos e projetor aberto
+
+![NDP22](https://garoa.net.br/w/images/Ndp_22_500px.gif)
+
+[20h00] Relâmpagos [20h30] Projetor aberto
+
+Em novembro vamos comemorar a 22ª edição do nosso encontro de arte e programação com Relâmpagos (até 6 apresentações de 5 minutos) e cerca de 9 projeções de até 10 minutos durante a nossa confraternização de final de ano.
+
+[+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing#28.2F11.2F2017_Rel.C3.A2mpagos_.26_projetor_aberto)
+
+
+### eventos passados
+
+<hr>
+
 #### 23/11/2017 SIGraDi 2017: XXI Congress of the Ibero-American Society of Digital Graphics 
 
 ![SIGRADI 2017](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/SIGRADI2017.png?raw=true)
@@ -23,8 +38,6 @@ Nos dias 22, 23 e 24 de novembro de 2017 na cidade de Concepción, Chile, o cong
 Na conferência deste ano será apresentado o trabalho [Python on the Landscape of Programming Tools for Design and Architectural Education](https://villares.github.io/mestrado/VILLARES_MOREIRA_SIGRADI_2017) de Alexandre Villares e Daniel Moreira.
 
 [+ INFOS](http://congreso.sigradi.org/index.php/2017/Concepcion)
-
-### eventos passados
 
 <hr>
 
