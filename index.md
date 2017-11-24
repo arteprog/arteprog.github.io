@@ -16,7 +16,7 @@
 
 #### 28/11/2017 Noite de Processing: relâmpagos e projetor aberto
 
-![NDP22](https://garoa.net.br/w/images/Ndp_22_500px.gif)
+![NDP22](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/Ndp_22_500px.gif?raw=true)
 
 [20h00] Relâmpagos [20h30] Projetor aberto
 
