@@ -143,7 +143,9 @@ Julio Trevisan é Engenheiro Eletricista formado pela UFSC (2006), e PhD em Bioi
 
 ![abertura SESC 24 de maio](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/sesc_24_de_maio.jpg?raw=true)
 
-Em conjunto com o grupo Estúdio Hacker, Monica Rizzolli apesentará um robô desenhista e Alexandre Villares uma ferramenta de desenho como potenciômetros.
+Em conjunto com o grupo [Estúdio Hacker](http://estudiohacker.io), Monica Rizzolli apesentará um robô desenhista e Alexandre Villares uma ferramenta de desenho como potenciômetros.
+
+![robo](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/robodesenhista.jpg?raw=true)
 
 <hr>
 
