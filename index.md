@@ -14,6 +14,26 @@
 
 <hr>
 
+#### 08 e 09/12/2017 Oficina Amarelinha Digital, com Monica Rizzolli, Pablo Villavicencio, Fabrício Masutti e Rodrigo Rezende
+
+![amaoficina](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/04amarelinha.png?raw=true)
+
+[+ INFOS](http://www.sesisp.org.br/cultura/galeria-de-arte-digital-sesi-sp-workshop.htm) 
+
+<hr>
+
+#### 22/11 a 10/12/2017 Intalação [Amarelinha Digital](https://www.facebook.com/amarelinhadigital/), animações em Processing de Monica Rizzolli
+
+![amarela1](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/03amarelinha.png?raw=true)
+
+![fachada](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/01amarelinha.jpg?raw=true)
+
+[+ INFOS](http://www.sesisp.org.br/cultura/galeria-de-arte-digital-sesi-sp-programacao.htm)
+
+### eventos passados
+
+<hr>
+
 #### 28/11/2017 Noite de Processing: relâmpagos e projetor aberto
 
 ![NDP22](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/Ndp_22_500px.gif?raw=true)
@@ -23,9 +43,6 @@
 Em novembro vamos comemorar a 22ª edição do nosso encontro de arte e programação com Relâmpagos (até 6 apresentações de 5 minutos) e cerca de 9 projeções de até 10 minutos durante a nossa confraternização de final de ano.
 
 [+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing#28.2F11.2F2017_Rel.C3.A2mpagos_.26_projetor_aberto)
-
-
-### eventos passados
 
 <hr>
 
