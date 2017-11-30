@@ -3,7 +3,7 @@
 ![nos](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/SESCSJC.png?raw=true)
 
 ### Monica Rizzolli
-É graduada em Artes Plásticas pelo Instituto de Artes da UNESP e possui especialização em desenho pela Kunsthochschule Kassel (Alemanha), na classe Johannes Spehr. Desde 2012 participa de projetos internacionais como MAK Center Artists and Architects (EUA), Creatives in Residence (China), Sweet Home (Espanha) e A.I.R. DRAWinternational (França). Em 2015 recebeu o prêmio MAK Schindler, do MAK-Viena. Organiza com Alexandre Villares a Noite de Processing, no Garoa Hacker Clube.
+É graduada em Artes Plásticas pelo Instituto de Artes da UNESP e possui especialização em desenho pela Kunsthochschule Kassel (Alemanha), na classe Johannes Spehr. Desde 2012 participa de projetos internacionais como MAK Center Artists and Architects (EUA), Creatives in Residence (China), Sweet Home (Espanha) e A.I.R. DRAWinternational (França). Em 2015 recebeu o prêmio MAK Schindler, do MAK-Viena. Organiza com Alexandre Villares a Noite de Processing, no Garoa Hacker Clube e integra o [Estúdio Hacker](http://estudiohacker.io) - processos de aprendizagem colaborativa em tecnologia e arte.
 [https://monicarizzolli.github.io/](https://monicarizzolli.github.io/)
  
 ### Alexandre Villares
