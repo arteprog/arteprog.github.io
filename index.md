@@ -14,6 +14,34 @@
 
 <hr>
 
+#### 11/01/2018 Programação para artistas e curiosos (Aula aberta 18H às 20H30)
+
+![SESC 24 de Maio - Aula aberta](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/aula-aberta-24-de-maio.png?raw=true)
+
+Local: SESC 24 de maio - Espaço de Tecnologias e Artes - 4º andar
+
+Grátis - Retirada de ingresso 30 min antes na Central de Atendimento
+
+[+ INFOS](https://www.sescsp.org.br/aulas/143137_INTENSIVO+DE+PROGRAMACAO+PARA+ARTISTAS+E+CURIOSOS) 
+
+<hr>
+
+#### 18/01/2018 a 01/03 Intensivo de programação para artistas e curiosos (QUI 18H ÀS 20H30)
+
+![SESC 24 de Maio - intensivo de programação](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/intensivo-24-de-maio.png?raw=true)
+
+[+ INFOS e inscrições](https://www.sescsp.org.br/aulas/143137_INTENSIVO+DE+PROGRAMACAO+PARA+ARTISTAS+E+CURIOSOS) 
+
+<hr>
+
+#### 09/01/2018 a 18/01 Encontros de Arte e Programação: Introdução ao Processing (TER E QUI 14H30 ÀS 17H30)
+
+![SESC Carmo - Mapatona](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/mapatona-carmo.png?raw=true)
+
+[+ INFOS](https://www.sescsp.org.br/aulas/142164_MAPATONA) 
+
+<hr>
+
 #### 30/01/2018 Noite de Processing
 
 <hr>
@@ -105,7 +133,7 @@ Na manhã do sábado, 28/10, nas Sessões Técnicas - Sala 3, foi apresentado o 
 ![ndp19](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/Convite19.png?raw=true)
 
 [20h00] Fractais IFS e o Jogo do Caos: Sistemas de Funções Iteradas (mais conhecidos como IFS, em inglês) são um método de construção de fractais, introduzido em 1981, que consiste em aplicar iterativamente uma série de transformações ou funções, normalmente com redução de escala. Fractais IFS em duas ou três dimensões são bastante usados em produção artística, apesar de serem menos conhecidos do que os fractais de Distância Estimada. O objetivo da atividade é mostrar como são gerados os fractais IFS, com foco na técnica conhecida como Jogo do Caos.
- 
+
 Tatyana Zabanova é estatística e programadora, mas, principalmente, entusiasta por fractais. https://tatasz.deviantart.com/
 
 [+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing#26.2F9.2F2017_Fractais_IFS_e_o_Jogo_do_Caos_-_Tatyana_Zabanova)
