@@ -14,6 +14,14 @@
 
 <hr>
 
+#### 30/01/2018 Noite de Processing
+
+<hr>
+
+### eventos passados
+
+<hr>
+
 #### 08 e 09/12/2017 Oficina Amarelinha Digital, com Monica Rizzolli, Pablo Villavicencio, Fabrício Masutti e Rodrigo Rezende
 
 ![amaoficina](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/04amarelinha.png?raw=true)
@@ -29,8 +37,6 @@
 ![fachada](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/01amarelinha.jpg?raw=true)
 
 [+ INFOS](http://www.sesisp.org.br/cultura/galeria-de-arte-digital-sesi-sp-programacao.htm)
-
-### eventos passados
 
 <hr>
 
