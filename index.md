@@ -34,7 +34,7 @@ Grátis - Retirada de ingresso 30 min antes na Central de Atendimento
 
 <hr>
 
-#### 09/01/2018 a 18/01 Encontros de Arte e Programação: Introdução ao Processing (TER E QUI 14H30 ÀS 17H30)
+#### 09/01/2018 a 18/01 Mapatona: Mapeando e tranformando espaços (TER E QUI 14H30 ÀS 17H30)
 
 ![SESC Carmo - Mapatona](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/mapatona-carmo.png?raw=true)
 
