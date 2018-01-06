@@ -2,7 +2,7 @@
 <hr>
 
 [projetos](/projetos/)<br>
-[cursos](http://arteprog.github.io/cursos/)<br>
+[cursos](/cursos/)<br>
 [pessoas](/pessoas/)<br>
 [*meetups*](https://www.meetup.com/arte-e-programacao/)<br>
 [github](https://github.com/arteprog)<br>
@@ -54,7 +54,7 @@ Grátis - Retirada de ingresso 30 min antes na Central de Atendimento
 
 ![amaoficina](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/04amarelinha.png?raw=true)
 
-[+ INFOS](http://www.sesisp.org.br/cultura/galeria-de-arte-digital-sesi-sp-workshop.htm) 
+[+ INFOS](https://www.sesisp.org.br/cultura/galeria-de-arte-digital-sesi-sp-workshop.htm) 
 
 <hr>
 
@@ -64,7 +64,7 @@ Grátis - Retirada de ingresso 30 min antes na Central de Atendimento
 
 ![fachada](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/01amarelinha.jpg?raw=true)
 
-[+ INFOS](http://www.sesisp.org.br/cultura/galeria-de-arte-digital-sesi-sp-programacao.htm)
+[+ INFOS](https://www.sesisp.org.br/cultura/galeria-de-arte-digital-sesi-sp-programacao.htm)
 
 <hr>
 
@@ -88,7 +88,7 @@ Nos dias 22, 23 e 24 de novembro de 2017 na cidade de Concepción, Chile, o cong
 
 Na conferência deste ano será apresentado o trabalho [Python on the Landscape of Programming Tools for Design and Architectural Education](https://villares.github.io/mestrado/VILLARES_MOREIRA_SIGRADI_2017) de Alexandre Villares e Daniel Moreira.
 
-[+ INFOS](http://congreso.sigradi.org/index.php/2017/Concepcion)
+[+ INFOS](https://congreso.sigradi.org/index.php/2017/Concepcion)
 
 <hr>
 
@@ -102,7 +102,7 @@ Na conferência deste ano será apresentado o trabalho [Python on the Landscape 
 
 ![esq1](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/esquina1.png?raw=true)
 
-Colaboração com [Esquina](http://www.esquina.net.br/2017/10/23/como-o-geoprocessamento-pode-nos-ajudar-a-ocupar-a-cidade/) / Estadão.
+Colaboração com [Esquina](https://www.esquina.net.br/2017/10/23/como-o-geoprocessamento-pode-nos-ajudar-a-ocupar-a-cidade/) / Estadão.
 
 <hr>
 
@@ -158,7 +158,7 @@ Datas para inscrições, presenciais, no SESC Pompéia:
 * Inscrições para o público geral  25/08, sexta-feira, das 11h às 14h e das 19h às 21h
 * Vagas remanescentes: 26/08, sábado, das 11h às 17h
 
-[+ INFOS](http://oficinas.sescsp.org.br/curso/programacao-criativa)
+[+ INFOS](https://oficinas.sescsp.org.br/curso/programacao-criativa)
 
 <hr>
 
@@ -194,7 +194,7 @@ Julio Trevisan é Engenheiro Eletricista formado pela UFSC (2006), e PhD em Bioi
 
 ![abertura SESC 24 de maio](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/sesc_24_de_maio.jpg?raw=true)
 
-Em conjunto com o grupo [Estúdio Hacker](http://estudiohacker.io), Monica Rizzolli apesentará um robô desenhista e Alexandre Villares uma ferramenta de desenho como potenciômetros.
+Em conjunto com o grupo [Estúdio Hacker](https://estudiohacker.io), Monica Rizzolli apesentará um robô desenhista e Alexandre Villares uma ferramenta de desenho como potenciômetros.
 
 ![robo](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/robodesenhista.jpg?raw=true)
 
@@ -321,7 +321,7 @@ A terceira edição do Go Code trouxe uma novidade oferecida pelo Instituto Jama
 
 ![masutti](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/download-1.jpg?raw=true)
 
-Veja o diário de bordo desse projeto de letramento digital da Fundação Maurício Sirotsky Sobrinho [aqui](http://www.fmss.org.br/novidade/quatro-jovens-e-um-destino/).
+Veja o diário de bordo desse projeto de letramento digital da Fundação Maurício Sirotsky Sobrinho [aqui](https://www.fmss.org.br/novidade/quatro-jovens-e-um-destino/).
 
 > “Nós procuramos um hackerspace porque desejávamos desenvolver projetos inusuais, experimentais – focados no processo – gerando experiências divertidas e aprendizado significativo no contexto de arte e tecnologia. A presença de jovens em um hackerspace é desejável não só pelas possibilidades citadas acima como também pelas oportunidades de convívio e desenvolvimento de habilidades sociais. Os jovens contribuem ativamente com novas demandas – baseadas na sua realidade  – rompendo pressupostos e consequentemente renovando a dinâmica do espaço.Ao mesmo tempo têm a possibilidade de interagir com pessoas mais experientes, inclusive no mercado de trabalho, e de contato com assuntos novos e diversos.” Explicam Alexandre Villares e Monica Rizzolli.
 
@@ -339,7 +339,7 @@ Centro Cultural São Paulo - FabLab CCSP:
 Centro Cultural São Paulo - Sala Adoniran Barbosa:
 19h15 às 20h00 - As fronteiras da tecnologia ( Juliana Harrison / **Monica Rizzolli** / Rodrigo Terra / Thiago Lima)
 
-[+ INFOS](http://arduinosaopaulo.cc)
+[+ INFOS](https://arduinosaopaulo.cc)
 
 <hr>
 
