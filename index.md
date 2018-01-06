@@ -260,7 +260,7 @@ Airton Gaidys entusiasta por Processing, com várias aulas sobre controle e supe
 
 #### Programação de computadores para todas as idades - Módulo III: Redes e Cidades - SESC Itaquera, dom 14h
 
-![itaquera](arteprog.github.io/assets/images/itaquera.png)
+![itaquera](assets/images/itaquera.png)
 
 <hr>
 
