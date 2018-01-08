@@ -1,17 +1,17 @@
 ## cursos
 <hr>
 
-### [Arte computacional e programação criativa](programacaocriativa.md)
+### [Arte computacional e programação criativa](programacaocriativa)
 
 Este curso tem como objetivo promover o contato dos participantes com a arte computacional/algoritmica por meio de aulas práticas usando Processing, plataforma de programação de código aberto amplamente utilizada por artistas. Também é estimulada a reflexão a partir da análise de obras e leituras sobre o assunto. 30h ou 36h
 
 ### Encontros de arte e programação: Processing Intermediário
 
 Apresentação de um conceito de arte digital, programação e manipulação do código de um programa em Processing com objetivos estéticos. Acompanhamento técnico e artístico de cada participante.
-1. Random ​Walkers ​e ​Perlin ​Noise;
-2. Sistemas ​de ​Partículas;
-3. Automatos ​Celulares;
-4. Algoritmos ​Genéticos.
+1. Random Walkers e Perlin Noise;
+2. Sistemas de Partículas;
+3. Automatos Celulares;
+4. Algoritmos Genéticos.
 
  16h (4 encontros de 4h)
 
