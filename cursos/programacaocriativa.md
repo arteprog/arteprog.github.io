@@ -5,16 +5,16 @@ Este curso tem como objetivo promover o contato dos participantes com a arte com
 
 **Tópicos do curso:**
 
-1. Introdução: o que é código? - forma e computador - o que é Processing? - instalação e configuração do processing - introdução ao ambiente - como consultar referências das funções - desenho básico (forma, linha e cor)
-2. Variáveis, loops e condicional
-3. Função e translação
+1. Introdução: o que é código? - forma e computador - o que é Processing? - instalação e configuração do processing - introdução ao ambiente - como consultar referências das funções - desenho básico (forma, linha e cor)
+2. Variáveis, loops e condicional
+3. Função e translação
 4. Movimento
 5. Interatividade
 6. Carregar e exibir imagens, fontes e formas
-7. Exportação de imagens e PDFs
-8. Vetores, lista de objetos sistemas de partículas
+7. Exportação de imagens e PDFs
+8. Vetores, lista de objetos sistemas de partículas
 9. Bibliotecas externas
-10. Orientação a objetos
+10. Orientação a objetos
 11. Arte digital: arte interativa - data arte - arte gerativa
 12. Exercícios práticos
 
