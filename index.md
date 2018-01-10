@@ -34,6 +34,16 @@ Grátis - Retirada de ingresso 30 min antes na Central de Atendimento
 
 <hr>
 
+#### 30/01/2018 Noite de Processing
+
+
+
+<hr>
+
+eventos passados
+
+<hr>
+
 #### 09/01/2018 a 18/01 Mapatona: Mapeando e tranformando espaços (TER E QUI 14H30 ÀS 17H30)
 
 ![SESC Carmo - Mapatona](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/mapatona-carmo.png?raw=true)
@@ -42,11 +52,11 @@ Grátis - Retirada de ingresso 30 min antes na Central de Atendimento
 
 <hr>
 
-#### 30/01/2018 Noite de Processing
+#### 08/1/2018 Live de Python #33 - Python para arquitetos, designers e artistas visuais (com Alexandre Villares)
 
-<hr>
+![LDP33](assets/images/livedepython33.png)
 
-### eventos passados
+[assista a gravação](https://www.youtube.com/watch?v=lAGWXaDcsKU&feature=youtu.be&a)
 
 <hr>
 
