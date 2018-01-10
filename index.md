@@ -10,7 +10,21 @@
 [**contato**](https://docs.google.com/forms/d/e/1FAIpQLSdIbkBf-7tUBk6YZ6elDA6hL3VA86fPQNGWshHviAZRcYM3HA/viewform)
 
 
-### próximos eventos
+## próximos eventos
+
+<hr>
+
+
+
+#### 30/01/2018 Noite de Processing
+
+<hr>
+
+#### 18/01/2018 a 01/03 Intensivo de programação para artistas e curiosos (QUI 18H ÀS 20H30)
+
+![SESC 24 de Maio - intensivo de programação](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/intensivo-24-de-maio.png?raw=true)
+
+[+ INFOS e inscrições](https://www.sescsp.org.br/aulas/143137_INTENSIVO+DE+PROGRAMACAO+PARA+ARTISTAS+E+CURIOSOS) 
 
 <hr>
 
@@ -26,21 +40,7 @@ Grátis - Retirada de ingresso 30 min antes na Central de Atendimento
 
 <hr>
 
-#### 18/01/2018 a 01/03 Intensivo de programação para artistas e curiosos (QUI 18H ÀS 20H30)
-
-![SESC 24 de Maio - intensivo de programação](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/intensivo-24-de-maio.png?raw=true)
-
-[+ INFOS e inscrições](https://www.sescsp.org.br/aulas/143137_INTENSIVO+DE+PROGRAMACAO+PARA+ARTISTAS+E+CURIOSOS) 
-
-<hr>
-
-#### 30/01/2018 Noite de Processing
-
-
-
-<hr>
-
-eventos passados
+## eventos passados
 
 <hr>
 
