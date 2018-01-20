@@ -14,8 +14,6 @@
 
 <hr>
 
-
-
 #### 30/01/2018 Noite de Processing com Grupo aMuDi: os desafios de desenvolver arte numa escola de engenharia
 
 ![NDP_AMUDI](assets/images/Ndp_23_500px.gif)
