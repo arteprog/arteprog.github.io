@@ -16,9 +16,20 @@
 
 
 
-#### 30/01/2018 Noite de Processing
+#### 30/01/2018 Noite de Processing com Grupo aMuDi: os desafios de desenvolver arte numa escola de engenharia
+
+![NDP_AMUDI](assets/images/Ndp_23_500px.gif)
+
+[20h] aMuDI é um grupo de arte e tecnologia formado inicialmente por alunos da escola politécnica da USP, em 2009. Seja em projetos próprios ou em parceria com artistas, o grupo tenta sempre juntar toda sensibilidade do mundo artístico com o viés técnico. As obras do aMuDi incluem: Genética, Levante (Bandeiras), Space Jumpers, Realidade Diminuída, feelMe, e a VOCÊ, obra que ilustra o convite deste encontro.​ 
+
+[+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing)
 
 <hr>
+
+## eventos passados
+
+<hr>
+
 
 #### 18/01/2018 a 01/03 Intensivo de programação para artistas e curiosos (QUI 18H ÀS 20H30)
 
@@ -38,9 +49,7 @@ Grátis - Retirada de ingresso 30 min antes na Central de Atendimento
 
 [+ INFOS](https://www.sescsp.org.br/aulas/143137_INTENSIVO+DE+PROGRAMACAO+PARA+ARTISTAS+E+CURIOSOS) 
 
-<hr>
 
-## eventos passados
 
 <hr>
 
