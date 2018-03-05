@@ -22,11 +22,11 @@
 
 #### 26/01/2018 Noite de Processing: Jogos de Arcade com Processing
 
+![NDP_ARCADE](assets/images/NdP_201802_500px.jpg)
+
 João Antonio de F. P. e Ferreira, trabalha com Processing em projetos independentes de software art, jogos, simulações e visualização de dados, coordenou a atividade que permitiu aos participantes desenvolver um "Bomberman" em Processing, conjuntamente, completamente do zero!
 
-
-
-![NDP_ARCADE](assets/images/NdP_201802_500px.jpg)
+[+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing)
 
 <hr>
 
