@@ -14,7 +14,11 @@
 
 <hr>
 
+#### SESC Osasco
 
+- Empodera
+- Lousa mágica
+- Desenhadores mecânicos aleatórios
 
 ## eventos passados
 
