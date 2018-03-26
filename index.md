@@ -9,8 +9,23 @@
 [apoie](https://www.patreon.com/arteprog)<br>
 [**contato**](https://docs.google.com/forms/d/e/1FAIpQLSdIbkBf-7tUBk6YZ6elDA6hL3VA86fPQNGWshHviAZRcYM3HA/viewform)
 
-
 ## próximos eventos
+
+<hr>
+
+
+
+#### 27/03/2018 Noite de Processing: Desenho colaborativo em rede
+
+![](assets/images/ndp_pedro_desenho_colaborativo.png)
+
+**Pedro Emilio Guglielmo** é designer, formado pela FAU-USP, trabalha com front-end faz 7 anos, atualmente na sua própria empresa,  RCKT.
+
+Vamos fazer uma ferramenta de desenho colaborativo. Tragam os seus computadores! Não é preciso conhecimento prévio de p5js ou websockets.
+
+
+
+## eventos passados
 
 <hr>
 
@@ -20,11 +35,17 @@
 - Lousa mágica
 - Desenhadores mecânicos aleatórios
 
-## eventos passados
+
+<hr>
+#### Workshop St. Martin
+
+<hr>
+#### SESC Registro
+
 
 <hr>
 
-#### 26/01/2018 Noite de Processing: Jogos de Arcade com Processing
+#### 26/02/2018 Noite de Processing: Jogos de Arcade com Processing
 
 ![NDP_ARCADE](assets/images/NdP_201802_500px.jpg)
 
