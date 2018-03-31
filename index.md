@@ -13,8 +13,6 @@
 
 <hr>
 
-
-
 #### 27/03/2018 Noite de Processing: Desenho colaborativo em rede
 
 ![](assets/images/ndp_pedro_desenho_colaborativo.png)
@@ -24,24 +22,27 @@
 Vamos fazer uma ferramenta de desenho colaborativo. Tragam os seus computadores! Não é preciso conhecimento prévio de p5js ou websockets.
 
 
-
 ## eventos passados
 
 <hr>
 
-#### SESC Osasco
+#### 20/03 - 24/04/2018 Empodera!: Programação criativa - Processing - COM MONICA RIZZOLLI no Sesc Osasco
 
-- Empodera
-- Lousa mágica
-- Desenhadores mecânicos aleatórios
+EMPODERA!Empoderar é desejar dar às mulheres um poder por tanto tempo negado. O projeto propõe um espaço de amplificação dos discursos, reflexão, construção e compartilhamento de arte inserida na luta e na resistência das mulheres cisgênero e transgênero. Que todas as mulheres se sintam à vontade para ocupar esse espaço.
+Espaço de Tecnologias e Artes
 
-
-<hr>
-#### Workshop St. Martin
+[+ INFOS](https://www.sescsp.org.br/programacao/148849_EMPODERA+PROGRAMACAO+CRIATIVA+PROCESSING)
 
 <hr>
-#### SESC Registro
+#### 21-23/03/2018 Workshop Corpo, Espaço e Objeto - Interagindo entre o artesanal e o digital, com Caroline Broadhead e Max Warren da Central Saint Martins, University of Arts London.
 
+MOnica Rizzolli participa do whorkshop realizado no Espaço de Tecnologias e Artes, do Sesc 24 de Maio, em São Paulo e
+apresenta o software Corpos são paisagem, desenvolvido durante o processo. Corpos são paisagem funciona como um filtro de imagem no qual você coloca-se na Praça da Sé em SP e pode brincar com o ambiente. Acender luzes, criar chuva, etc. Em breve código no GutHub.
+
+<hr>
+#### 04/03/2018 Processing: Arte e Programação
+
+Por meio de experimentação, os participantes do workshop entram em contato com as possibilidades de interação entre arte e recursos computacionais, em uma introdução à programação e manipulação de códigos de um programa em Processing, com objetivos estéticos e poéticos a partir do trabalho da artista visual Monica Rizzolli. Com a artista visual Monica Rizzolli.
 
 <hr>
 
