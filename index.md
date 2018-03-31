@@ -39,6 +39,9 @@ Espaço de Tecnologias e Artes
 Monica Rizzolli participa do whorkshop realizado no Espaço de Tecnologias e Artes, do Sesc 24 de Maio, em São Paulo e
 apresenta o software Corpos são paisagem, desenvolvido durante o processo. Corpos são paisagem funciona como um filtro de imagem no qual você coloca-se na Praça da Sé em SP e pode brincar com o ambiente. Acender luzes, criar chuva, etc. Em breve código no GutHub.
 
+![](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/corpo.jpg?raw=true)
+![](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/corpos16.gif?raw=true)
+
 <hr>
 #### 04/03/2018 Processing: Arte e Programação no SESC Registro
 
