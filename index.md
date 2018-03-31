@@ -36,11 +36,11 @@ Espaço de Tecnologias e Artes
 <hr>
 #### 21-23/03/2018 Workshop Corpo, Espaço e Objeto - Interagindo entre o artesanal e o digital, com Caroline Broadhead e Max Warren da Central Saint Martins, University of Arts London.
 
-MOnica Rizzolli participa do whorkshop realizado no Espaço de Tecnologias e Artes, do Sesc 24 de Maio, em São Paulo e
+Monica Rizzolli participa do whorkshop realizado no Espaço de Tecnologias e Artes, do Sesc 24 de Maio, em São Paulo e
 apresenta o software Corpos são paisagem, desenvolvido durante o processo. Corpos são paisagem funciona como um filtro de imagem no qual você coloca-se na Praça da Sé em SP e pode brincar com o ambiente. Acender luzes, criar chuva, etc. Em breve código no GutHub.
 
 <hr>
-#### 04/03/2018 Processing: Arte e Programação
+#### 04/03/2018 Processing: Arte e Programação no SESC Registro
 
 Por meio de experimentação, os participantes do workshop entram em contato com as possibilidades de interação entre arte e recursos computacionais, em uma introdução à programação e manipulação de códigos de um programa em Processing, com objetivos estéticos e poéticos a partir do trabalho da artista visual Monica Rizzolli. Com a artista visual Monica Rizzolli.
 
