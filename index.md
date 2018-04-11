@@ -1,5 +1,5 @@
 <!--- p class="h0"><strong>arteprog</strong> arte e programação</p --->
-<hr>
+----
 
 [projetos](/projetos/)<br>
 [cursos](/cursos/)<br>
@@ -11,9 +11,25 @@
 
 ## próximos eventos
 
-<hr>
+----
 
-#### 27/03/2018 Noite de Processing: Desenho colaborativo em rede
+
+
+
+
+## eventos passados
+
+——
+
+#### 4/2018 Centésimo sketch do projeto *sketch-a-day*
+
+
+
+![10](../../Processing/sketch-a-day/s100/s100.gif)
+
+Em abril de 2018 Alexandre Villares passa da marca dos 100 *sketches*, ideias visuais exploradas por meio da programação, praticamente uma por dia. As imagens podem ser vistas em http://abav.lugaralgum.com/sketch-a-day sempre acompanhadas de um link para o código que as gerou.
+
+####27/03/2018 Noite de Processing: Desenho colaborativo em rede
 
 ![](assets/images/ndp_pedro_desenho_colaborativo.png)
 
@@ -22,9 +38,10 @@
 Vamos fazer uma ferramenta de desenho colaborativo. Tragam os seus computadores! Não é preciso conhecimento prévio de p5js ou websockets.
 
 
-## eventos passados
 
-<hr>
+[+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing#27.2F03.2F2018_Desenho_colaborativo_em_rede:_p5js_.2B_websockets.2C_com_Pedro_Guglielmo)
+
+----
 
 #### 20/03 - 24/04/2018 Empodera!: Programação criativa - Processing - COM MONICA RIZZOLLI no Sesc Osasco
 
@@ -33,7 +50,7 @@ Espaço de Tecnologias e Artes
 
 [+ INFOS](https://www.sescsp.org.br/programacao/148849_EMPODERA+PROGRAMACAO+CRIATIVA+PROCESSING)
 
-<hr>
+----
 #### 21-23/03/2018 Workshop Corpo, Espaço e Objeto - Interagindo entre o artesanal e o digital, com Caroline Broadhead e Max Warren da Central Saint Martins, University of Arts London.
 
 Monica Rizzolli participa do whorkshop realizado no Espaço de Tecnologias e Artes, do Sesc 24 de Maio, em São Paulo e
@@ -42,12 +59,12 @@ apresenta o software Corpos são paisagem, desenvolvido durante o processo. Corp
 ![](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/corpo.jpg?raw=true)
 ![](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/corpos16.gif?raw=true)
 
-<hr>
+----
 #### 04/03/2018 Processing: Arte e Programação no SESC Registro
 
 Por meio de experimentação, os participantes do workshop entram em contato com as possibilidades de interação entre arte e recursos computacionais, em uma introdução à programação e manipulação de códigos de um programa em Processing, com objetivos estéticos e poéticos a partir do trabalho da artista visual Monica Rizzolli. Com a artista visual Monica Rizzolli.
 
-<hr>
+----
 
 #### 26/02/2018 Noite de Processing: Jogos de Arcade com Processing
 
@@ -57,7 +74,7 @@ João Antonio de F. P. e Ferreira, trabalha com Processing em projetos independe
 
 [+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing)
 
-<hr>
+----
 
 #### 30/01/2018 Noite de Processing com Grupo aMuDi: os desafios de desenvolver arte numa escola de engenharia
 
@@ -68,7 +85,7 @@ João Antonio de F. P. e Ferreira, trabalha com Processing em projetos independe
 
 [+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing)
 
-<hr>
+----
 
 
 #### 18/01/2018 a 01/03 Intensivo de programação para artistas e curiosos (QUI 18H ÀS 20H30)
@@ -77,7 +94,7 @@ João Antonio de F. P. e Ferreira, trabalha com Processing em projetos independe
 
 [+ INFOS e inscrições](https://www.sescsp.org.br/aulas/143137_INTENSIVO+DE+PROGRAMACAO+PARA+ARTISTAS+E+CURIOSOS) 
 
-<hr>
+----
 
 #### 11/01/2018 Programação para artistas e curiosos (Aula aberta 18H às 20H30)
 
@@ -91,7 +108,7 @@ Grátis - Retirada de ingresso 30 min antes na Central de Atendimento
 
 
 
-<hr>
+----
 
 #### 09/01/2018 a 18/01 Mapatona: Mapeando e tranformando espaços (TER E QUI 14H30 ÀS 17H30)
 
@@ -99,7 +116,7 @@ Grátis - Retirada de ingresso 30 min antes na Central de Atendimento
 
 [+ INFOS](https://www.sescsp.org.br/aulas/142164_MAPATONA) 
 
-<hr>
+----
 
 #### 08/1/2018 Live de Python #33 - Python para arquitetos, designers e artistas visuais (com Alexandre Villares)
 
@@ -107,7 +124,7 @@ Grátis - Retirada de ingresso 30 min antes na Central de Atendimento
 
 [assista a gravação](https://www.youtube.com/watch?v=lAGWXaDcsKU&feature=youtu.be&a)
 
-<hr>
+----
 
 #### 08 e 09/12/2017 Oficina Amarelinha Digital, com Monica Rizzolli, Pablo Villavicencio, Fabrício Masutti e Rodrigo Rezende
 
@@ -115,7 +132,7 @@ Grátis - Retirada de ingresso 30 min antes na Central de Atendimento
 
 [+ INFOS](https://www.sesisp.org.br/cultura/galeria-de-arte-digital-sesi-sp-workshop.htm) 
 
-<hr>
+----
 
 #### 22/11 a 10/12/2017 Intalação [Amarelinha Digital](https://www.facebook.com/amarelinhadigital/), animações em Processing de Monica Rizzolli
 
@@ -125,7 +142,7 @@ Grátis - Retirada de ingresso 30 min antes na Central de Atendimento
 
 [+ INFOS](https://www.sesisp.org.br/cultura/galeria-de-arte-digital-sesi-sp-programacao.htm)
 
-<hr>
+----
 
 #### 28/11/2017 Noite de Processing: relâmpagos e projetor aberto
 
@@ -137,7 +154,7 @@ Em novembro vamos comemorar a 22ª edição do nosso encontro de arte e programa
 
 [+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing#28.2F11.2F2017_Rel.C3.A2mpagos_.26_projetor_aberto)
 
-<hr>
+----
 
 #### 23/11/2017 SIGraDi 2017: XXI Congress of the Ibero-American Society of Digital Graphics 
 
@@ -149,13 +166,13 @@ Na conferência deste ano será apresentado o trabalho [Python on the Landscape 
 
 [+ INFOS](https://congreso.sigradi.org/index.php/2017/Concepcion)
 
-<hr>
+----
 
 #### 07/10 a 28/10 Encontros de Arte e Programação: Introdução ao Processing (SAB 14H ÀS 18H)
 
 ![SESC Bauru](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/processing_bauru.png?raw=true)
 
-<hr>
+----
 
 #### 23/10/2017 Como o geoprocessamento pode nos ajudar a ocupar a cidade
 
@@ -163,7 +180,7 @@ Na conferência deste ano será apresentado o trabalho [Python on the Landscape 
 
 Colaboração com [Esquina](https://www.esquina.net.br/2017/10/23/como-o-geoprocessamento-pode-nos-ajudar-a-ocupar-a-cidade/) / Estadão.
 
-<hr>
+----
 
 #### 31/10/2017 O artista-programador e a cultura hacker na arte feita em Processing - Patricia Oakim
 
@@ -173,7 +190,7 @@ Colaboração com [Esquina](https://www.esquina.net.br/2017/10/23/como-o-geoproc
 
 Patricia Oakim é mestre em Tecnologias da Inteligência e Design Digital, pela PUC-SP, e é também mestre pela New York University, no curso Interactive Telecommunications Program. Ela entrou em contato com Processing pela primeira vez em 2006, quando aprendeu a escrever as primeiras linhas de código. Trabalha com gestão de tecnologia aplicada em diferentes áreas.
 
-<hr>
+----
 
 #### 28/10/2017 GRAPHICA 2017: XII International Conference on Graphics Engineering for Arts and Design
 
@@ -185,7 +202,7 @@ Na manhã do sábado, 28/10, nas Sessões Técnicas - Sala 3, foi apresentado o 
 
 [+ INFOS](https://www.facebook.com/pg/GraphicaBR/about)
 
-<hr>
+----
 
 #### 26/09/2017 Noite de Processing: Fractais IFS e o Jogo do Caos - Tatyana Zabanova
 
@@ -197,7 +214,7 @@ Tatyana Zabanova é estatística e programadora, mas, principalmente, entusiasta
 
 [+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing#26.2F9.2F2017_Fractais_IFS_e_o_Jogo_do_Caos_-_Tatyana_Zabanova)
 
-<hr>
+----
 
 #### 13/09 a 06/12/2017 Programação Criativa no SESC Pompéia (12 encontros, quartas 14h30)
 
@@ -219,7 +236,7 @@ Datas para inscrições, presenciais, no SESC Pompéia:
 
 [+ INFOS](https://oficinas.sescsp.org.br/curso/programacao-criativa)
 
-<hr>
+----
 
 #### 23/08 a 06/09/2017 Programação Criativa no SESC Belenzinho (5 encontros, quartas e sextas )
 
@@ -227,7 +244,7 @@ Datas para inscrições, presenciais, no SESC Pompéia:
 
 [+ INFOS](https://www.sescsp.org.br/aulas/128539_PROGRAMACAO+CRIATIVA)
 
-<hr>
+----
 
 #### 25/08, 30/08 e 01/09/2017 Introdução ao Processing no SESC 24 de maio (3 encontros, quartas e sextas)
 
@@ -235,7 +252,7 @@ Datas para inscrições, presenciais, no SESC Pompéia:
 
 [+ INFOS](https://www.sescsp.org.br/aulas/130660_INTRODUCAO+AO+PROCESSING+ARTE+E+PROGRAMACAO)
 
-<hr>
+----
 
 #### 29/08/2017 Noite de Processing: Hands-on: algoritmo genético interativo - Julio Trevisan
 
@@ -247,7 +264,7 @@ Julio Trevisan é Engenheiro Eletricista formado pela UFSC (2006), e PhD em Bioi
 
 [+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing#29.2F08.2F2017_Hands-on:_algoritmo_gen.C3.A9tico_interativo_-_Julio_Trevisan)
 
-<hr>
+----
 
 #### 19 e 20/08 Inauguração do SESC 24 de Maio 
 
@@ -257,7 +274,7 @@ Em conjunto com o grupo [Estúdio Hacker](https://estudiohacker.io), Monica Rizz
 
 ![robo](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/robodesenhista.jpg?raw=true)
 
-<hr>
+----
 
 #### 03, 10 e 17/08/2017 Programação com P5*JS no IED-SP
 
@@ -265,7 +282,7 @@ Em conjunto com o grupo [Estúdio Hacker](https://estudiohacker.io), Monica Rizz
 
 Atividade realizada por Alexandre Villares em disciplina do curso de pós-graduação em Design de Interação do Istituto Europeo di Design (IED-SP).
 
-<hr>
+----
 
 #### 25/07/2017 Noite de Processing: O espaço definidor do videogame - Leandro Velloso
 
@@ -275,7 +292,7 @@ Atividade realizada por Alexandre Villares em disciplina do curso de pós-gradua
 
 [+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing#25.2F07.2F2017_O_espa.C3.A7o_definidor_do_videogame_-_Leandro_Velloso)
 
-<hr>
+----
 
 #### 05/07/2017 Esquina + Amarello: Uma conversa sobre arte e cidade
 
@@ -289,14 +306,14 @@ O AMARELLO é um coletivo que acredita no poder e na capacidade de transformaç�
 
 [+ INFOS](https://www.eventbrite.com.br/e/esquina-amarello-uma-conversa-sobre-arte-e-cidade-tickets-35725118792)
 
-<hr>
+----
 
 #### 30/06/2017 Festa de lançamento da revista Amarello 27 e showcase Monica Rizzolli
 
 ![amarello](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/convite.jpeg?raw=true)
 
 Alexandre Villares é editor convidado da revista Amarello 27, PERSPECTIVAS, com capa de Monica Rizzolli.
-<hr>
+----
 
 #### 27/06/2017 Threads, programação paralela e múltiplos projetores - Airton Gaidys
 
@@ -315,13 +332,13 @@ Veremos 3 formas diferentes de programação:
 Airton Gaidys entusiasta por Processing, com várias aulas sobre controle e supervisão postados no Youtube.
 
 [+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing#27.2F06.2F2017_Threads.2C_programa.C3.A7.C3.A3o_paralela_e_m.C3.BAltiplos_projetores_-_Airton_Gaidys)
-<hr>
+----
 
 #### Programação de computadores para todas as idades - Módulo III: Redes e Cidades - SESC Itaquera, dom 14h
 
 ![itaquera](assets/images/itaquera.png)
 
-<hr>
+----
 
 #### 30/05/2017 Mapas, Grafos e Geometria Computacional: usando Processing para visualizar a matemática - Fábio Hirano
 
@@ -331,7 +348,7 @@ Airton Gaidys entusiasta por Processing, com várias aulas sobre controle e supe
 
 Fábio Hirano tem formação em Licenciatura em Matemática e Ciência da Computação pela USP. Trabalha há 11 anos com educação e divulgação científica, e há 6 no ensino de tecnologia para crianças e adolescentes. Hoje atua como professor de programação para crianças e adolescentes é palestrante, e é presidente do Garoa Hacker Clube, primeiro hackerspace brasileiro.
 
-<hr>
+----
 
 #### Programação de computadores para todas as idades - Módulo II: Cores e Números - SESC Itaquera, dom 14h
 
@@ -339,7 +356,7 @@ Fábio Hirano tem formação em Licenciatura em Matemática e Ciência da Comput
 
 [+ INFOS](https://www.sescsp.org.br/programacao/121446_PROGRAMACAO+DE+COMPUTADORES+PARA+TODAS+AS+IDADES+MODULO+II+CORES+E+NUMEROS)
 
-<hr>
+----
 
 #### 25/04/2017 Noite de Processing: A perspectiva da imagem analógica e digital - Coletivo RE(C)organize
 
@@ -351,7 +368,7 @@ Coletivo RE(C)organize - é um coletivo artístico formado entre as cidades de S
 
 [+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing#25.2F04.2F2017_A_perspectiva_da_imagem_anal.C3.B3gica_e_digital_-_Coletivo_RE.28C.29organize)
 
-<hr>
+----
 
 #### Programação de computadores - Jogos e padrões - SESC Itaquera, dom 14h
 
@@ -363,7 +380,7 @@ b) Programação Criativa - tem como objetivo promover a familiarização dos pa
 
 [+ INFOS](https://www.sescsp.org.br/programacao/117781_PROGRAMACAO+DE+COMPUTADORES+JOGOS+E+PADROES)
 
-<hr>
+----
 
 #### 20/04 a 13/07/2017 Programação Criativa no SESC Santana (12 encontros, quintas 19h30)
 ![pc_santana](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/sesc_santana.png?raw=true)
@@ -372,7 +389,7 @@ O curso tem como objetivo promover a familiarização dos participantes com a ar
 
 [+ INFOS](https://www.sescsp.org.br/aulas/118836_PROCESSING+CURSO+DE+PROGRAMACAO+CRIATIVA)
 
-<hr>
+----
 
 #### Go Code na Noite de Processing.
 
@@ -384,7 +401,7 @@ Veja o diário de bordo desse projeto de letramento digital da Fundação Maurí
 
 > “Nós procuramos um hackerspace porque desejávamos desenvolver projetos inusuais, experimentais – focados no processo – gerando experiências divertidas e aprendizado significativo no contexto de arte e tecnologia. A presença de jovens em um hackerspace é desejável não só pelas possibilidades citadas acima como também pelas oportunidades de convívio e desenvolvimento de habilidades sociais. Os jovens contribuem ativamente com novas demandas – baseadas na sua realidade  – rompendo pressupostos e consequentemente renovando a dinâmica do espaço.Ao mesmo tempo têm a possibilidade de interagir com pessoas mais experientes, inclusive no mercado de trabalho, e de contato com assuntos novos e diversos.” Explicam Alexandre Villares e Monica Rizzolli.
 
-<hr>
+----
 
 #### 01/04/2017 Arduino Day 2017 - Centro Cultural São Paulo
 
@@ -400,7 +417,7 @@ Centro Cultural São Paulo - Sala Adoniran Barbosa:
 
 [+ INFOS](https://arduinosaopaulo.cc)
 
-<hr>
+----
 
 #### 28/03/2017 Noite de Processing: Processos de Ensino-aprendizagem num Espaço de Tecnologias e Artes - Fabricio Masutti
 
@@ -410,7 +427,7 @@ A fala será sobre o Ateliê Digital Aberto, projeto desenvolvido no Sesc Soroca
 
 [+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing#28.2F03.2F2017_Processos_de_Ensino-aprendizagem_num_Espa.C3.A7o_de_Tecnologias_e_Artes_-_Fabricio_Masutti)
 
-<hr>
+----
 
 #### 25/3/2017 Oficina de introdução à programação com MIT App Inventor
 
@@ -421,7 +438,7 @@ Geek's Beer - Rua Oscar Freire, 2292 - São Paulo, SP.
 
 [+ INFOS](https://www.facebook.com/events/1689415094409273/)
 
-<hr>
+----
 
 #### 22/03 a 13/04/2017 Programação Criativa no SESC São José dos Campos (8 encontros, quartas e quintas 19h)
 ![pc_sjc](https://github.com/arteprog/arteprog.github.io/blob/master/assets/images/pc_sjc.jpg?raw=true)
@@ -430,7 +447,7 @@ O curso tem como objetivo promover a familiarização dos participantes com a ar
 
 [+ INFOS](https://www.sescsp.org.br/programacao/117413_PROGRAMACAO+CRIATIVA)
 
-<hr>
+----
 
 #### 18/03/2017 Hackerspace Itinerante: Fab Lab CEU Heliópolis 
 
@@ -442,7 +459,7 @@ A atividade é gratuita, para iniciantes e já iniciados, sem inscrição prévi
 
 Como chegar no Fab Lab CEU Heliópolis: De metrô, vá até a estação Sacomã [linha verde] e pegue o ônibus 5031-10 no terminal anexo à estação. Uma das paradas dessa linha deixa na porta do CEU Heliópolis. Tempo estimado de chegada, saindo da Av. Paulista: cerca de 45 minutos.
 
-<hr>
+----
 
 #### 12/03/2017 Oficina: Jogo “Pong” com Processing e Arduino - SESC Itaquera, 13h às 17h
 
@@ -454,7 +471,7 @@ Nesta atividade, o público terá uma oficina de introdução à plataforma Proc
 
 [+ INFOS](https://m.sescsp.org.br/#/cursos/117213)
 
-<hr>
+----
 
 #### 28/02/2017 Noite de Processing: Arte gerativa e Processing modo Python - Monica Rizzolli e Alexandre Villares
 
@@ -466,7 +483,7 @@ Nesta atividade, o público terá uma oficina de introdução à plataforma Proc
 
 [+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing#28.2F02.2F2017_Arte_gerativa_e_Processing_modo_Python_-_Monica_Rizzolli_e_Alexandre_Villares)
 
-<hr>
+----
 
 #### 31/01/2017 Noite de Processing: Instalações Audiovisuais Interativas - Pablo Villavicencio
 
@@ -474,7 +491,7 @@ Nesta atividade, o público terá uma oficina de introdução à plataforma Proc
 
 [+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing#31.2F01.2F2017_Instala.C3.A7.C3.B5es_audiovisuais_interativas_-_Pablo_Villavicencio)
 
-<hr>
+----
 
 #### 18/01/2017 Hackerspace Itinerante: Robôs Desenhistas
 
