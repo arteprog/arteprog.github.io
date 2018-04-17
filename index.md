@@ -15,11 +15,9 @@
 
 
 
-
-
 ## eventos passados
 
-——
+----
 
 #### 4/2018 Centésimo sketch do projeto *sketch-a-day*
 
@@ -27,15 +25,15 @@
 
 Em abril de 2018 Alexandre Villares passa da marca dos 100 *sketches*, ideias visuais exploradas por meio da programação, praticamente uma por dia. As imagens podem ser vistas em http://abav.lugaralgum.com/sketch-a-day sempre acompanhadas de um link para o código que as gerou.
 
-####27/03/2018 Noite de Processing: Desenho colaborativo em rede
+----
+
+#### 27/03/2018 Noite de Processing: Desenho colaborativo em rede
 
 ![](assets/images/ndp_pedro_desenho_colaborativo.png)
 
 **Pedro Emilio Guglielmo** é designer, formado pela FAU-USP, trabalha com front-end faz 7 anos, atualmente na sua própria empresa,  RCKT.
 
 Vamos fazer uma ferramenta de desenho colaborativo. Tragam os seus computadores! Não é preciso conhecimento prévio de p5js ou websockets.
-
-
 
 [+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing#27.2F03.2F2018_Desenho_colaborativo_em_rede:_p5js_.2B_websockets.2C_com_Pedro_Guglielmo)
 
