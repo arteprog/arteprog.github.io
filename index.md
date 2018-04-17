@@ -23,9 +23,7 @@
 
 #### 4/2018 Centésimo sketch do projeto *sketch-a-day*
 
-
-
-![10](../../Processing/sketch-a-day/s100/s100.gif)
+![sketch 100](assets/images/s100.gif)
 
 Em abril de 2018 Alexandre Villares passa da marca dos 100 *sketches*, ideias visuais exploradas por meio da programação, praticamente uma por dia. As imagens podem ser vistas em http://abav.lugaralgum.com/sketch-a-day sempre acompanhadas de um link para o código que as gerou.
 
