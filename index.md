@@ -13,12 +13,31 @@
 
 ----
 
+#### 29/05/2018 Noite de Processing: Instalação da obra  "Pièce de Resistance"
 
+![NDP_Pièce_de_Resistance](assets/images/ndp180529.jpg)
+
+Grupo aMuDi é um grupo de arte e tecnologia formado inicialmente por alunos da escola politécnica da USP, em 2009. Nessa noite será instalada no Garoa Hacker Clube a obra "Pièce de Resistance", seguida de bate-papo com o grupo. "Pièce de Resistance" é uma paródia/spin-off/derivação metalinguistica da obra do Magritte, "La trahison des images". 
+
+[+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing)
+
+----
 
 ## eventos passados
 
 ----
 
+#### 24/04/2018 Noite de Processing: Origami e robótica
+
+![NDP_Origami_e_robotica](assets/images/500px-NdP_180424.png)
+
+Daniel Seda é artista multimídia, educador e escritor. Desde 2007 trabalha em projetos de arte e educação e atualmente é Educador de Tecnologias e Artes do SESC Avenida Paulista. Atua desde 1995 em diversos meios tendo como elemento chave o conceito de colagem, de remixagem e de reciclagem seja de objetos físicos ou de idéias. 
+
+Sua pesquisa em origami e robótica surge a partir das experiências práticas unindo os estudos de origami a partir de 2011 com os estudos de Arduino aplicado à robótica, a partir de 2015. 
+
+[+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing)
+
+----
 #### 4/2018 Centésimo sketch do projeto *sketch-a-day*
 
 ![sketch 100](assets/images/s100.gif)
