@@ -13,6 +13,16 @@
 
 ----
 
+#### 07/06/2018 Programação em Processing para Artistas e Curiosos
+
+![quatro_encontros_sesc_av_paulista](assets/images/quatro_encontros_sesc_av_paulista.jpg)
+
+[+ INFOS](https://www.sescsp.org.br/aulas/157462_PROGRAMACAO+EM+PROCESSING+PARA+ARTISTAS+E+CURIOSOS)
+
+----
+
+## eventos passados
+
 #### 29/05/2018 Noite de Processing: Instalação da obra  "Pièce de Resistance"
 
 ![NDP_Pièce_de_Resistance](assets/images/ndp180529.jpg)
@@ -20,10 +30,6 @@
 Grupo aMuDi é um grupo de arte e tecnologia formado inicialmente por alunos da escola politécnica da USP, em 2009. Nessa noite será instalada no Garoa Hacker Clube a obra "Pièce de Resistance", seguida de bate-papo com o grupo. "Pièce de Resistance" é uma paródia/spin-off/derivação metalinguistica da obra do Magritte, "La trahison des images". 
 
 [+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing)
-
-----
-
-## eventos passados
 
 ----
 
