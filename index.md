@@ -10,6 +10,14 @@
 [**contato**](https://docs.google.com/forms/d/e/1FAIpQLSdIbkBf-7tUBk6YZ6elDA6hL3VA86fPQNGWshHviAZRcYM3HA/viewform)
 
 ## próximos eventos
+----
+
+## eventos passados
+----
+
+#### 26/06/2018 Noite de Processing:  Geradores de labirinto
+
+![NDP_labirintos](assets/images/labirintos.png)
 
 ----
 
@@ -20,8 +28,6 @@
 [+ INFOS](https://www.sescsp.org.br/aulas/157462_PROGRAMACAO+EM+PROCESSING+PARA+ARTISTAS+E+CURIOSOS)
 
 ----
-
-## eventos passados
 
 #### 29/05/2018 Noite de Processing: Instalação da obra  "Pièce de Resistance"
 
