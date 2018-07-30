@@ -15,7 +15,7 @@
 
 #### 31/07/2018 Noite de Processing:  Andrei Thomaz
 
-![NDP_AndreiThomaz](assets/images/AndreiThomaz.jpg)
+![NDP_AndreiThomaz](assets/images/AndreiThomaz.png)
 
 
 
