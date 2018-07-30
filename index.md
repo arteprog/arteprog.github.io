@@ -10,9 +10,27 @@
 [**contato**](https://docs.google.com/forms/d/e/1FAIpQLSdIbkBf-7tUBk6YZ6elDA6hL3VA86fPQNGWshHviAZRcYM3HA/viewform)
 
 ## próximos eventos
+
+----
+
+#### 31/07/2018 Noite de Processing:  Andrei Thomaz
+
+![NDP_AndreiThomaz](assets/images/AndreiThomaz.jpg)
+
+
+
 ----
 
 ## eventos passados
+
+----
+
+#### 28/07/2018 Café Maker
+
+![CaféMaker](assets/images/cafeMaker.jpg)
+
+
+
 ----
 
 #### 26/06/2018 Noite de Processing:  Geradores de labirinto
