@@ -13,15 +13,45 @@
 
 ----
 
-#### 31/07/2018 Noite de Processing:  Andrei Thomaz
+#### 21/11 a 19/12/2018  Ateliê aberto - Sesc 24 de maio
 
-![NDP_AndreiThomaz](assets/images/AndreiThomaz.png)
+*Hackerismo e Programação em Artes Visuais*  são quatro encontros, com Monica Rizzolli e João Adriano, para o atendimento, desenvolvimento e orientação de projetos artísticos individuais em programação: compreendendo sua elaboração, conceituação e acompanhamento técnico em sua construção. Inscrições na Central de Atendimento dia 30/10 (terça, das 13h às 20h30) para a categoria Credencial Plena e dia 1/11 (sexta, 13h às 20h30) na categoria Credencial Atividade. Vagas remanescentes a partir de 2/11 até o início da aula.
 
-
+[+ INFOS](https://www.sescsp.org.br/aulas/171059_HACKERISMO+E+PROGRAMACAO+EM+ARTES+VISUAIS)
 
 ----
 
 ## eventos passados
+
+----
+
+####  30/10/2018 Code Jam: outra33.bienal.org.br - Bruno Moreschi e Bernardo Fontes
+
+![500px-Convite_30_out_18_rev_G](assets/images/500px-Convite_30_out_18_rev_G.png)
+
+[+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing)
+
+----
+
+####  25/09/2018 Workshop de Inteligência Artificial - João Antonio de F. P. e Ferreira
+
+![500px-Convite_25_set_18](assets/images/500px-Convite_25_set_18.gif)
+
+[+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing)
+
+----
+
+#### 28/08/2018 3D no Processing - encontro de experimentação coletiva
+
+![500px-NdP3D](assets/images/500px-NdP3D.png)
+
+[+ INFOS](https://garoa.net.br/wiki/Noite_de_Processing)
+
+----
+
+#### 31/07/2018 Noite de Processing:  Andrei Thomaz
+
+![NDP_AndreiThomaz](assets/images/AndreiThomaz.png)
 
 ----
 
