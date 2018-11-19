@@ -19,7 +19,6 @@
 
 [+ INFOS](https://www.sescsp.org.br/aulas/171059_HACKERISMO+E+PROGRAMACAO+EM+ARTES+VISUAIS)
 
-----
 
 ## eventos passados
 
