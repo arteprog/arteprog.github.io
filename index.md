@@ -4,7 +4,7 @@
 [projetos](/projetos/)<br>
 [cursos](/cursos/)<br>
 [pessoas](/pessoas/)<br>
-[PCD @ São Paulo] (/PCD SP 19/)<br>
+[PCD @ São Paulo](/PCD SP 19/)<br>
 [*meetups*](https://www.meetup.com/arte-e-programacao/)<br>
 [github](https://github.com/arteprog)<br>
 [apoie](https://www.patreon.com/arteprog)<br>
