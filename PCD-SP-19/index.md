@@ -10,37 +10,28 @@ A focus of this project is to make learning how to program and make creative wor
 
 For PCD 2019, we would like to broaden the reach and impact of this community by organizing with hundreds of Processing communities around the world. The Processing Foundation will be organizing a Processing Community Day in Los Angeles as well as inviting node organizers from all over the world to join us in organizing events in multiple locations. 
 
-## PCD @ São Paulo
+### PCD @ São Paulo: January 19, 2019
 
-### 8-hour Processing Community Day
+8-hour Processing Community Day / 10AM to 06PM
 
-### São Paulo: January 19, 2019
+Venue: ThoughtWorks Brazil
 
-10AM to 06PM
+Avenida Paulista, 2300 - Edifício São Luis Gonzaga- Conjunto 41
 
-ThoughtWorks Brazil
-
-Avenida Paulista, 2300
-
-Edifício São Luis Gonzaga- Conjunto 41
-
-Bela Vista
-
-São Paulo - SP, 01310-300, Brazil 
+Bela Vista, São Paulo - SP, 01310-300, Brazil 
 
 
-The group of people organizing PCD - São Paulo grew from personal links and educational activities of people involved with Noite de Processing, a monthly arts and programming meetup at Garoa Hacker Clube, the first Brazilian hackerspace, in São Paulo.
+The group of people organizing PCD @ São Paulo grew from personal links and educational activities of people involved with Noite de Processing, a monthly arts and programming meetup at Garoa Hacker Clube, the first Brazilian hackerspace, in São Paulo.
 
+### People:
 
-## People:
-
-### Primary organizers
+#### Primary organizers
 
 **Alexandre Villares** studied architecture at FAU-USP and is currently enrolled on ATC FEC/Unicamp master’s program, researching computer programming teaching on a visual context. Processing Foundation member, co-organizer of Noite de Processing at Garoa Hacker Clube and partner at arteprog.space. Works as a teacher and educator in São Paulo, while writing daily sketches at abav.lugaralgum.com/sketch-a-day. 
 
 **Monica Rizzolli** is best know for her computer simulations that transform environmental cues into landscape animations. The projections explore themes such as: the image of the city, environmental psychology and the human perception of the space. Rizzolli has exhibited in the US (MAK Center’s Artists and Architects, LA), Brazil, Germany, China and Spain. Awards include MAK Schindler Scholarship (MAK Vienna) and Sweet Home (Hablarenarte, Madrid). Currently, she develops a series of educational projects related to art and technology and develops projects such as "Constrast" with the type designer Tony de Marco (http:..contrast.parts). Born in São Carlos, Rizzolli attended the Instituto de Artes da UNESP (Fine Arts, São Paulo, Brazil) and the Kunsthochschule Kassel (Drawing, Kassel, Germany), She lives and works in São Paulo.
 
-### Co-organizers
+#### Co-organizers
 
 **João Antonio** de F. P. e Ferreira, 27 years old, is an independent programmer doing work ranging from software art and creative coding to game development and desktop utilities since 2013. His portfolio can be found at https://introscopia.github.io/en/index.html
 
@@ -48,13 +39,13 @@ The group of people organizing PCD - São Paulo grew from personal links and edu
 
 **Marco Macarena** is a Full Stack Web Developer with a background in Education (Pedagogy). He works with programming, education and their relations, as a Project Manager concerned with professional development and also as a teacher of young people taking their first steps in programming with Python and JavaScript.
 
-## Support:
+#### Support:
 
 **ThoughtWorks** is a software company and a community of passionate, purpose-led individuals. They think disruptively to deliver technology to address their clients' toughest challenges, all while seeking to revolutionize the IT industry and create positive social change.
 
 **Noite de Processing** is a regular meetup to talk about art and programming, not exclusively about Processing. A free and open meeting (no registration required). The activity is organized by Monica Rizzolli, Alexandre Villares and João Antonio de F. P. e Ferreira (since 2018), usually held every month on the last tuesday at 7PM.
 
-## Acknowledgments:
+#### Acknowledgments:
 
 Luciano Ramalho
 
