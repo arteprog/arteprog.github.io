@@ -13,9 +13,9 @@
 
 ----
 
-### Processing Community Day @ São Paulo 2019
+### 19/01/2019 Processing Community Day @ São Paulo
 
-[PCD @ São Paulo - Português](/PCD-SP-19/PT) / [PCD @ São Paulo - English](/PCD-SP-19/EN)<br>
+[PCD @ São Paulo 2019 - Português](/PCD-SP-19/PT) / [PCD @ São Paulo 2019 - English](/PCD-SP-19/EN)<br>
 
 ---
 
