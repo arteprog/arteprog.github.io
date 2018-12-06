@@ -4,7 +4,6 @@
 [projetos](/projetos/)<br>
 [cursos](/cursos/)<br>
 [pessoas](/pessoas/)<br>
-[PCD @ São Paulo - PT](/PCD-SP-19/PT) / [PCD @ São Paulo - EN](/PCD-SP-19/EN)<br>
 [*meetups*](https://www.meetup.com/arte-e-programacao/)<br>
 [github](https://github.com/arteprog)<br>
 [apoie](https://www.patreon.com/arteprog)<br>
@@ -14,14 +13,22 @@
 
 ----
 
+#### Processing Community Day @ São Paulo 2019
+
+[PCD @ São Paulo - Português](/PCD-SP-19/PT) / [PCD @ São Paulo - English](/PCD-SP-19/EN)<br>
+
+---
+
+## eventos passados
+
+---
+
 #### 21/11 a 19/12/2018  Ateliê aberto - Sesc 24 de maio
 
 *Hackerismo e Programação em Artes Visuais*  são quatro encontros, com Monica Rizzolli e João Adriano, para o atendimento, desenvolvimento e orientação de projetos artísticos individuais em programação: compreendendo sua elaboração, conceituação e acompanhamento técnico em sua construção. Inscrições na Central de Atendimento dia 30/10 (terça, das 13h às 20h30) para a categoria Credencial Plena e dia 1/11 (sexta, 13h às 20h30) na categoria Credencial Atividade. Vagas remanescentes a partir de 2/11 até o início da aula.
 
 [+ INFOS](https://www.sescsp.org.br/aulas/171059_HACKERISMO+E+PROGRAMACAO+EM+ARTES+VISUAIS)
 
-
-## eventos passados
 
 ----
 
