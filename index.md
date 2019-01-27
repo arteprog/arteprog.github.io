@@ -11,15 +11,27 @@
 
 ## próximos eventos
 
+### 27/02/2019 Curso: arte algorítmica e programação criativa
+
+Não há um consenso sobre o termo arte computacional, que é bem amplo. Para exemplificar, na graduação em "Computational Arts" da escola Goldsmiths, University of London (https://www.gold.ac.uk/pg/mfa-computational-arts/), a computação é mencionada como a totalidade de mudanças trazidas pela tecnologia digital, e a arte como o conjunto aberto de maneiras de agir inventivamente na cultura, sendo a arte computacional a mistura sistemática dessas duas coisas. Em seguida falam sobre ensinar os princípios da programação e do uso expressivo desse conhecimento. 
+
+Acreditamos que o uso criativo e essencialmente expressivo da programação (que muitos chamam de programação criativa) é possível por meio desse letramento ou alfabetização, como menciona Casey Reas um dos criadores do Processing:
+
+> Na minha opinião, todo artista utilizando software deveria ser alfabetizado em software. O que alfabetização significa no contexto do software? Alan Kay, um inovador no pensamento sobre o computador como um meio, escreveu: A habilidade de ‘ler’ um meio significa que você pode acessar os materiais e as ferramentas criadas pelos outros. A habilidade de ‘escrever’ em um meio significa que você pode gerar materiais e ferramentas para os outros. Você precisa dos dois para ser alfabetizado. Na escrita, as ferramentas de que você precisa são retóricas; elas demonstram e convencem. Na escrita computacional, as ferramentas que você gera são processos; elas simulam e decidem"
+--- Casey Reas, em tradução de Patrícia Oakim.
+
+[Mais sobre o curso no site da Casa Plana](https://www.casaplana.org/Arte-algoritmica-e-programacao-criativa)
+
+---
+
+## eventos passados
+
 ----
 
 ### 19/01/2019 Processing Community Day @ São Paulo
 
 [PCD @ São Paulo 2019 - Português](/PCD-SP-19/PT) / [PCD @ São Paulo 2019 - English](/PCD-SP-19/EN)<br>
 
----
-
-## eventos passados
 
 ---
 
