@@ -36,7 +36,9 @@ Mais informações: [curso no site da Casa Plana](https://www.casaplana.org/Arte
 
 ### 19/01/2019 Processing Community Day @ São Paulo
 
-[PCD @ São Paulo 2019 - Português](/PCD-SP-19/PT) / [PCD @ São Paulo 2019 - English](/PCD-SP-19/EN)<br>
+![Convite PCD @ SP](https://raw.githubusercontent.com/arteprog/PCD-SP-19/master/assets/pcd2.jpg)
+
+[PCD @ São Paulo 2019 - Português](http://arteprog.space/PCD-SP-19/PT) / [PCD @ São Paulo 2019 - English](http://arteprog.space//PCD-SP-19/EN)<br>
 
 
 ---
