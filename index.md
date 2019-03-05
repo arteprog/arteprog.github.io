@@ -9,9 +9,23 @@
 [apoie](https://www.patreon.com/arteprog)<br>
 [**contato**](https://docs.google.com/forms/d/e/1FAIpQLSdIbkBf-7tUBk6YZ6elDA6hL3VA86fPQNGWshHviAZRcYM3HA/viewform)
 
+----
+
 ## próximos eventos
 
 ----
+
+
+
+----
+
+## eventos passados
+
+----
+
+### 27/02/2019 Noite de Processing @ Recife
+
+---
 
 ### 27/02/2019 Curso: arte algorítmica e programação criativa
 
@@ -26,20 +40,21 @@ Acreditamos que o uso criativo e essencialmente expressivo da programação (que
 
 Mais informações: [curso no site da Casa Plana](https://www.casaplana.org/Arte-algoritmica-e-programacao-criativa)
 
+----
 
+### 26/02/2019 Noite de Processing: Code Jam - glifos e scripts gerativos
 
 ----
 
-## eventos passados
+### 29/01/2019 Noite de Processing: Relatos sobre o Processing Community Day
 
-----
+---
 
 ### 19/01/2019 Processing Community Day @ São Paulo
 
 ![Convite PCD @ SP](https://raw.githubusercontent.com/arteprog/PCD-SP-19/master/assets/pcd2.jpg)
 
 [PCD @ São Paulo 2019 - Português](http://arteprog.space/PCD-SP-19/PT) / [PCD @ São Paulo 2019 - English](http://arteprog.space//PCD-SP-19/EN)<br>
-
 
 ---
 
@@ -52,7 +67,7 @@ Mais informações: [curso no site da Casa Plana](https://www.casaplana.org/Arte
 
 ----
 
-####  30/10/2018 Code Jam: outra33.bienal.org.br - Bruno Moreschi e Bernardo Fontes
+####  30/10/2018 Noite de Processing: Code Jam - outra33.bienal.org.br - Bruno Moreschi e Bernardo Fontes
 
 ![500px-Convite_30_out_18_rev_G](assets/images/500px-Convite_30_out_18_rev_G.png)
 
@@ -60,7 +75,7 @@ Mais informações: [curso no site da Casa Plana](https://www.casaplana.org/Arte
 
 ----
 
-####  25/09/2018 Workshop de Inteligência Artificial - João Antonio de F. P. e Ferreira
+####  25/09/2018 Noite de Processing: Workshop de Inteligência Artificial - João Antonio de F. P. e Ferreira
 
 ![500px-Convite_25_set_18](assets/images/500px-Convite_25_set_18.gif)
 
@@ -68,7 +83,7 @@ Mais informações: [curso no site da Casa Plana](https://www.casaplana.org/Arte
 
 ----
 
-#### 28/08/2018 3D no Processing - encontro de experimentação coletiva
+#### 28/08/2018 Noite de Processing: 3D no Processing - encontro de experimentação coletiva
 
 ![500px-NdP3D](assets/images/500px-NdP3D.png)
 
