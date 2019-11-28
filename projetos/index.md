@@ -1,6 +1,11 @@
 ## projetos
 <hr>
 
+### Processing Community Day @ São Paulo
+
+- [PCD São Paulo - janeiro de 2020](https://github.com/arteprog/PCD-SP-20)
+
+- [PCD São Paulo - janeiro de 2019](https://github.com/arteprog/PCD-SP-19)
 
 ### Revista AMARELLO 27
 
@@ -21,6 +26,5 @@ Noite de Processing é um encontro regular para conversar sobre arte e programa�
 
 > "O encontro é parte de uma série de reuniões mensais que busca dialogar e partilhar experiências relacionadas ao software processing como forma de integrar conhecimentos entre pessoas de diversas áreas profissionais e de interesses que acabam por convergir, de alguma maneira, no uso da programação." 
 > OLIVEIRA, Victória Gomes de. [RELATÓRIO FINAL ARTE E MÍDIAS INDEPENDENTES.](https://github.com/arteprog/arteprog.github.io/blob/master/assets/textos/Arte-e-Mi%CC%81dias-Independentes-Victo%CC%81ria-Gomes-de-Oliveira.pdf) Universidade de São Paulo, São Paulo, 2016.
-
 
  <script src="../footer.js"></script>
