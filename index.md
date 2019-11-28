@@ -16,13 +16,17 @@
 ----
 
 ### 26/11/2019 Noite de Processing @ São Paulo
-> [mais informações](https://garoa.net.br/wiki/Noite_de_Processing)
+
+- [mais informações](https://garoa.net.br/wiki/Noite_de_Processing)
 
 ### 27/11/2019 Noite de Processing @ Recife
-> [mais informações](http://arteprog.space/noite-processing-recife/)
+
+- [mais informações](http://arteprog.space/noite-processing-recife/)
 
 ### 18 e 19 de janeiro de 2019 - Processing Community Day 2020 @ São Paulo
-> Breve mais informações aqui
+
+- [mais informações](https://github.com/arteprog/PCD-SP-20)
+
 
 ----
 
