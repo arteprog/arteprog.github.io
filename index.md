@@ -17,7 +17,7 @@
 
 ### 18 e 19 de janeiro de 2019 - Processing Community Day 2020 @ São Paulo
 
-- [mais informações](https://github.com/arteprog/PCD-SP-20)
+- [mais informações](http://arteprog.space/PCD-SP-20/)
 
 ----
 
