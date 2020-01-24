@@ -31,11 +31,15 @@ Controle de versão e colaboração distribuída com carinho (e git)
 
 ### 18 e 19 de janeiro de 2019 - Processing Community Day 2020 @ São Paulo
 
+![](https://github.com/arteprog/PCD-SP-20/blob/master/assets/Asset%201.png?raw=true)
+
 - [mais informações](http://arteprog.space/PCD-SP-20/)
 
 ---
 
 ### 26/11/2019 Noite de Processing @ São Paulo - Relâmpagos
+
+![](https://garoa.net.br/w/images/thumb/NdP_novembro_2019.png/500px-NdP_novembro_2019.png)
 
 - [mais informações](https://garoa.net.br/wiki/Noite_de_Processing)
 
