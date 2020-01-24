@@ -15,13 +15,20 @@
 
 ----
 
-### 18 e 19 de janeiro de 2019 - Processing Community Day 2020 @ São Paulo
 
-- [mais informações](http://arteprog.space/PCD-SP-20/)
+### 28/01/2020 Noite de Processing @ São Paulo - Controle de versão e colaboração distribuída com carinho (e git)
+
+- [mais informações](https://garoa.net.br/wiki/Noite_de_Processing)
 
 ----
 
 ## eventos passados
+
+---
+
+### 18 e 19 de janeiro de 2019 - Processing Community Day 2020 @ São Paulo
+
+- [mais informações](http://arteprog.space/PCD-SP-20/)
 
 ---
 
