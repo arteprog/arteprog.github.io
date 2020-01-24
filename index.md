@@ -16,7 +16,9 @@
 ----
 
 
-### 28/01/2020 Noite de Processing @ São Paulo - Controle de versão e colaboração distribuída com carinho (e git)
+### 28/01/2020 Noite de Processing @ São Paulo 
+
+Controle de versão e colaboração distribuída com carinho (e git)
 
 - [mais informações](https://garoa.net.br/wiki/Noite_de_Processing)
 
