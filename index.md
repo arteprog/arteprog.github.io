@@ -15,8 +15,9 @@
 
 ----
 
-
 ### 28/01/2020 Noite de Processing @ São Paulo 
+
+![](https://garoa.net.br/w/images/thumb/Convite_NdP_20_01.png/500px-Convite_NdP_20_01.png)
 
 Controle de versão e colaboração distribuída com carinho (e git)
 
@@ -123,7 +124,6 @@ Mais informações: [curso no site da Casa Plana](https://www.casaplana.org/Arte
 #### 28/07/2018 Café Maker
 
 ![CaféMaker](assets/images/cafeMaker.jpg)
-
 
 
 ----
