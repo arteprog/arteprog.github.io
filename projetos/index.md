@@ -4,7 +4,7 @@
 ### Processing Community Day @ São Paulo
 
 - [PCD São Paulo - janeiro de 2020](https://arteprog.space/PCD-SP-20) - [Relato do evento por Sergio Venancio](https://arteprog.space/PCD-SP-20/relatos/pt)
-- [PCD São Paulo - janeiro de 2019](https://arteprog.space/PCD-SP-19)
+- [PCD São Paulo - janeiro de 2019](https://arteprog.space/PCD-SP-19/PT/) - [English version](https://arteprog.space/PCD-SP-19/EN/)
 
 ### Noite de Processing
 Noite de Processing é um encontro regular para conversar sobre arte e programação. O evento é aberto e não é preciso nenhum tipo de inscrição. A atividade é organizada voluntariamente por Monica Rizzolli e Alexandre Villares, normalmente na última terça de cada mês às 19h no Garoa Hacker Clube.<br>
