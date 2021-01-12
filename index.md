@@ -31,6 +31,4 @@ Editor convidado: Alexandre Villares. O lançamento contou com um *showcase* da 
 Processando Processing é um esforço para: traduzir para o português material de referência e tutoriais sobre Processing; e portar para o Processing Modo Python código de exemplos. O resultado é sempre publicado com licenças abertas semelhantes às do material original. [Doações](https://www.patreon.com/arteprog) feitas para arteprog vão contribuir para manter este projeto.<br>
 [https://github.com/arteprog/Processando-Processing](https://github.com/arteprog/Processando-Processing)
 
-----
-
  <script src="../footer.js"></script>
