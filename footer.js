@@ -4,6 +4,6 @@ document.write('<hr>\
  | <a href="/pessoas/">pessoas</a>\
  | <a href="https://github.com/arteprog">github</a>\
  | <a href="https://www.patreon.com/arteprog">apoie</a>\
- | <a href="/eventos-passados/">eventos passados"</a>\
+ | <a href="/eventos-passados/">eventos passados</a>\
 </p>\
 ');
