@@ -7,7 +7,7 @@
 [http://monicarizzolli.tumblr.com](http://monicarizzolli.tumblr.com)
  
 ### Alexandre Villares
-É arquiteto graduado pela FAU-USP, professor na Escola da Cidade - Faculdade de Arquitetura e Urbanismo, desde 2005. Aluno de mestrado na FEC/Unicamp - Arquitetura, Tecnologia e Cidade. Trabalha com ensino de ferramentas de modelagem 3D, fabricação digital e programação criativa para arquitetos, designers, artistas visuais, crianças, jovens e interessados em geral. Co-organizador da Noite de Processing e membro associado do Garoa Hacker Clube.
+É professor, artista visual e consultor em projetos de design e novas mídias. Graduado em arquitetura e urbanismo pela FAU-USP (2000) e mestre pela FEC-Unicamp (2019), pesquisa práticas artísticas que se valem de meios computacionais e o ensino de programação em contextos visuais. Ministra oficinas e cursos independentes, atuando na graduação e pós-graduação de diversas instituições ou como educador de tecnologias e artes no Sesc-SP.
 [https://abav.lugaralgum.com](https://abav.lugaralgum.com)
 
  <script src="../footer.js"></script>
